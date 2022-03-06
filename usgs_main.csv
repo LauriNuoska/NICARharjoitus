@@ -529,3 +529,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T23:59:59.200Z,65.2343,-147.9671,0.0,1.4,ml,,,,1.19,ak,ak0222y8fy86,2022-03-06T00:13:09.805Z,"34 km NNW of Fox, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-03-05T20:26:26.270Z,37.626,-118.8876667,7.96,0.72,md,14.0,97.0,0.02083,0.08,nc,nc73701751,2022-03-06T01:14:12.397Z,"8km E of Mammoth Lakes, CA",earthquake,0.46,0.4,0.256,11.0,reviewed,nc,nc
 2022-03-05T18:43:20.410Z,46.32983333333333,-122.25283333333331,5.57,0.14,ml,11.0,160.0,0.02781,0.17,uw,uw61820306,2022-03-06T00:30:34.920Z,"25 km S of Morton, Washington",earthquake,0.56,0.66,0.1072003177113527,4.0,reviewed,uw,uw
+2022-03-06T02:46:54.300Z,34.206,-117.4856667,12.29,1.95,ml,66.0,28.0,0.05008,0.22,ci,ci40200464,2022-03-06T02:53:01.019Z,"6km SSE of Lytle Creek, CA",earthquake,0.23,0.55,0.152,26.0,automatic,ci,ci
+2022-03-06T02:33:17.494Z,-22.5851,-176.3623,10.0,5.0,mb,,92.0,8.4,0.96,us,us6000h2gu,2022-03-06T02:51:26.040Z,"196 km SW of Vaini, Tonga",earthquake,5.2,1.9,0.043,176.0,reviewed,us,us
