@@ -945,3 +945,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T10:55:08.885Z,38.2566,-118.3664,12.3,-0.3,ml,8.0,144.39,0.109,0.1352,nn,nn00835032,2022-03-07T22:11:27.681Z,California-Nevada border region,earthquake,,4.3,0.0,1.0,reviewed,nn,nn
 2022-03-07T04:21:56.412Z,38.4865,-119.5026,7.0,0.3,ml,5.0,131.7,0.054,0.0947,nn,nn00835031,2022-03-07T22:05:15.412Z,"3 km SW of Walker, California",earthquake,,3.1,0.17,2.0,reviewed,nn,nn
 2022-03-07T03:47:21.367Z,-8.0046,122.3745,10.0,4.5,mb,,143.0,0.641,1.19,us,us6000h2qs,2022-03-07T21:55:27.040Z,"70 km NNE of Maumere, Indonesia",earthquake,4.2,1.9,0.271,5.0,reviewed,us,us
+2022-03-07T22:34:29.380Z,19.2198333740234,-155.392837524414,32.9599990844727,1.84000003,md,33.0,151.0,,0.140000001,hv,hv72941972,2022-03-07T22:37:48.860Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.67,0.790000021,1.40999997,6.0,automatic,hv,hv
+2022-03-07T14:36:24.370Z,40.1624,-119.643,9.8,0.9,ml,4.0,239.84,0.069,0.1586,nn,nn00835035,2022-03-07T22:39:22.714Z,"23 km N of Sutcliffe, Nevada",earthquake,,4.2,0.13,3.0,reviewed,nn,nn
+2022-03-06T22:46:12.960Z,19.1961666666667,-155.452333333333,38.7,2.12,md,49.0,120.0,,0.11,hv,hv72940577,2022-03-07T22:39:07.022Z,"2 km ESE of Pāhala, Hawaii",earthquake,0.55,0.64,0.139603149622641,22.0,reviewed,hv,hv
