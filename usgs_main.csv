@@ -1115,3 +1115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T10:09:35.830Z,19.4853333333333,-155.654,6.08,0.72,md,10.0,121.0,,0.11,hv,hv72942722,2022-03-08T12:04:26.330Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.59,0.77,0.161968468677314,6.0,reviewed,hv,hv
 2022-03-08T10:09:04.514Z,26.8161,126.5675,10.0,4.3,mb,,39.0,1.523,0.34,us,us6000h308,2022-03-08T12:29:03.040Z,"129 km WNW of Naha, Japan",earthquake,6.7,1.9,0.081,45.0,reviewed,us,us
 2022-03-08T09:54:21.640Z,19.1518333333333,-155.471833333333,29.31,1.43,md,11.0,226.0,,0.12,hv,hv72942682,2022-03-08T11:55:49.350Z,"5 km S of Pāhala, Hawaii",earthquake,1.03,1.15,0.119411154993545,5.0,reviewed,hv,hv
+2022-03-08T13:26:57.900Z,38.7958336,-122.7496643,1.94,0.86,md,25.0,93.0,0.009194,0.04,nc,nc73702831,2022-03-08T13:34:10.680Z,"2km NNE of The Geysers, CA",earthquake,0.24,0.41,0.2,6.0,automatic,nc,nc
+2022-03-08T13:12:14.083Z,63.5196,-150.8408,10.5,1.5,ml,,,,0.86,ak,ak022330thme,2022-03-08T13:24:13.251Z,"43 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-08T12:06:23.650Z,17.9281666666667,-66.859,16.74,2.22,md,15.0,187.0,,0.19,pr,pr71339478,2022-03-08T13:33:21.280Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.61,0.74,0.131619200597953,8.0,reviewed,pr,pr
+2022-03-08T06:31:34.130Z,36.48566667,-98.73266667,8.25,1.24,ml,46.0,47.0,0.01079788109,0.18,ok,ok2022ercc,2022-03-08T13:25:37.858Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.4,0.22,15.0,reviewed,ok,ok
