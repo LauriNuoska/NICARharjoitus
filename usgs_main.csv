@@ -1403,3 +1403,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-09T09:59:48.782Z,61.5021,-146.4938,20.0,1.6,ml,,,,0.87,ak,ak02234m991a,2022-03-09T10:02:21.125Z,"42 km N of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-09T09:56:30.344Z,54.5368,-159.6038,19.89,3.8,mb,,186.0,0.957,0.8,us,us6000h39c,2022-03-09T10:08:22.040Z,"105 km SSE of Sand Point, Alaska",earthquake,7.6,9.4,0.208,6.0,reviewed,us,us
 2022-03-09T09:52:26.985Z,54.4896,-163.2578,10.0,3.6,ml,,187.0,0.379,0.69,us,us6000h39b,2022-03-09T10:14:58.040Z,"41 km SSE of False Pass, Alaska",earthquake,3.8,2.0,0.081,20.0,reviewed,us,us
+2022-03-09T10:43:09.045Z,61.5676,-149.8503,46.7,1.4,ml,,,,0.38,ak,ak02234mr648,2022-03-09T10:46:03.486Z,"7 km SSW of Houston, Alaska",earthquake,,0.7,,,automatic,ak,ak
