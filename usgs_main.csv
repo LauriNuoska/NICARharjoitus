@@ -1683,3 +1683,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T09:01:13.400Z,39.315834,-123.2516632,2.09,2.39,md,14.0,87.0,0.1119,0.11,nc,nc73703721,2022-03-10T09:14:48.938Z,"7km NW of Redwood Valley, CA",earthquake,0.41,9.25,0.13,15.0,automatic,nc,nc
 2022-03-10T08:59:17.964Z,64.4135,-147.45,17.0,1.3,ml,,,,0.54,ak,ak02236973jo,2022-03-10T09:01:32.213Z,"29 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-10T08:34:30.921Z,-20.3649,-68.9407,117.24,4.2,mb,,53.0,0.732,0.42,us,us6000h3if,2022-03-10T08:56:28.040Z,"127 km E of Iquique, Chile",earthquake,5.2,5.7,0.175,10.0,reviewed,us,us
+2022-03-10T09:35:42.290Z,35.6666667,-117.4388333,4.67,1.21,ml,17.0,121.0,0.08223,0.17,ci,ci40204144,2022-03-10T09:39:22.144Z,"12km SSW of Searles Valley, CA",earthquake,0.44,1.0,0.206,16.0,automatic,ci,ci
