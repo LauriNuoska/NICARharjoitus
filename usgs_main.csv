@@ -1782,3 +1782,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T00:29:50.022Z,62.9029,-150.8076,96.6,1.0,ml,,,,0.13,ak,ak02236498du,2022-03-10T18:08:19.892Z,"45 km N of Petersville, Alaska",earthquake,,1.6,,,reviewed,ak,ak
 2022-03-09T21:38:14.560Z,46.3415,-111.6273333,-2.0,1.03,ml,7.0,251.0,0.348,0.11,mb,mb80540109,2022-03-10T18:20:13.990Z,"6 km SSW of The Silos, Montana",quarry blast,1.66,31.61,0.277,5.0,reviewed,mb,mb
 2022-03-09T19:10:30.720Z,33.063,-115.0053333,-0.2,1.65,ml,10.0,83.0,0.09338,0.21,ci,ci40203512,2022-03-10T18:43:43.687Z,"45km NE of Holtville, CA",quarry blast,0.62,31.61,0.043,3.0,reviewed,ci,ci
+2022-03-10T17:30:25.380Z,45.370333333333335,-121.70383333333334,0.55,0.76,ml,8.0,110.0,0.01182,0.07,uw,uw61821451,2022-03-10T18:46:13.700Z,"8 km NNE of Government Camp, Oregon",earthquake,0.38,0.28,0.0565988289270169,4.0,reviewed,uw,uw
+2022-03-10T16:07:30.920Z,34.43,-117.8685,13.39,0.82,ml,11.0,106.0,0.03409,0.31,ci,ci40204320,2022-03-10T18:47:07.049Z,"9km SSE of Pearblossom, CA",earthquake,0.69,1.29,0.158,5.0,reviewed,ci,ci
+2022-03-10T06:44:54.570Z,44.4243333,-112.7483333,13.95,0.94,ml,9.0,130.0,0.167,0.11,mb,mb80540114,2022-03-10T18:47:32.210Z,"26 km SSW of Lima, Montana",earthquake,0.58,0.68,0.104,5.0,reviewed,mb,mb
