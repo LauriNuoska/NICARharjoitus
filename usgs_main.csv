@@ -1797,3 +1797,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T05:11:44.050Z,51.6911666666667,-179.024166666667,10.56,1.49,ml,6.0,270.0,,0.2,av,av91508486,2022-03-10T19:24:19.780Z,"166 km W of Adak, Alaska",earthquake,1.49,1.72,0.274700440802794,6.0,reviewed,av,av
 2022-03-10T01:28:46.980Z,18.8643333333333,-155.219,8.41,1.86,md,18.0,267.0,,0.11,hv,hv72945312,2022-03-10T19:08:34.850Z,"44 km ESE of Naalehu, Hawaii",earthquake,0.96,0.77,0.169110828512951,9.0,reviewed,hv,hv
 2022-03-09T20:48:12.910Z,35.0598333,-118.3396667,-0.8,1.08,ml,12.0,72.0,0.06909,0.13,ci,ci40203616,2022-03-10T18:58:52.768Z,"13km SE of Tehachapi, CA",quarry blast,0.37,31.61,0.06,7.0,reviewed,ci,ci
+2022-03-10T19:30:08.889Z,62.5826,-151.0979,84.7,1.5,ml,,,,0.42,ak,ak02236fkmqg,2022-03-10T19:33:47.138Z,"19 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-03-10T19:28:04.191Z,63.1081,-151.3293,0.0,1.4,ml,,,,0.81,ak,ak02236fk6xu,2022-03-10T19:30:50.704Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
