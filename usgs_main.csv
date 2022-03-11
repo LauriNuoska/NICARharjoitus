@@ -2110,3 +2110,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T21:28:55.048Z,39.9858,-119.5679,0.0,2.1,ml,17.0,109.51,0.201,0.1936,nn,nn00835224,2022-03-11T21:32:40.697Z,"4 km NE of Sutcliffe, Nevada",earthquake,,11.2,0.28,11.0,automatic,nn,nn
 2022-03-11T21:27:45.920Z,33.868,-117.5003333,2.67,0.93,ml,19.0,129.0,0.05111,0.28,ci,ci40205432,2022-03-11T21:31:22.958Z,"2km ESE of Home Gardens, CA",quarry blast,0.79,0.71,0.119,16.0,automatic,ci,ci
 2022-03-11T21:26:55.113Z,60.1363,-153.0065,103.6,2.0,ml,,,,0.7,ak,ak022384a2zh,2022-03-11T21:29:54.355Z,"72 km ENE of Pedro Bay, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2022-03-11T21:47:21.420Z,38.8178329,-122.7986679,3.48,0.84,md,12.0,115.0,0.0102,0.01,nc,nc73704366,2022-03-11T21:48:55.531Z,"6km NW of The Geysers, CA",earthquake,0.56,1.11,,1.0,automatic,nc,nc
