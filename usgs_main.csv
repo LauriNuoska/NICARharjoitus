@@ -2067,3 +2067,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T09:54:44.500Z,38.8238333,-122.8115,1.58,-0.15,md,20.0,38.0,0.001197,0.02,nc,nc73704121,2022-03-11T17:58:46.977Z,"7km NW of The Geysers, CA",earthquake,0.2,0.37,,1.0,reviewed,nc,nc
 2022-03-11T07:38:42.730Z,44.2728333,-115.1895,10.77,1.94,ml,12.0,83.0,0.833,0.27,mb,mb80540169,2022-03-11T18:05:42.270Z,"20 km WNW of Stanley, Idaho",earthquake,0.58,1.58,0.217,12.0,reviewed,mb,mb
 2022-03-11T01:22:07.200Z,47.3733333,-113.723,1.63,0.77,ml,12.0,151.0,0.204,0.11,mb,mb80540234,2022-03-11T18:24:06.080Z,"17 km S of Condon, Montana",earthquake,0.36,0.76,0.131,2.0,reviewed,mb,mb
+2022-03-11T16:47:38.020Z,46.5433333,-111.987,-2.0,1.56,ml,11.0,190.0,0.067,0.16,mb,mb80540219,2022-03-11T18:48:27.670Z,"1 km SSE of South Hills, Montana",quarry blast,1.1,31.61,0.153,9.0,reviewed,mb,mb
