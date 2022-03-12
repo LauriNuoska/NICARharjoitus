@@ -2324,3 +2324,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T22:20:17.030Z,38.8230019,-122.7676697,2.26,0.85,md,11.0,161.0,0.007661,0.02,nc,nc73704826,2022-03-12T22:33:11.165Z,"4km W of Cobb, CA",earthquake,0.48,0.83,,1.0,automatic,nc,nc
 2022-03-12T22:04:34.657Z,62.2262,-151.6145,85.3,1.6,ml,,,,0.92,ak,ak02239sa3s6,2022-03-12T22:09:11.790Z,"28 km NNW of Skwentna, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-03-12T21:11:30.667Z,31.67404095,-104.401896,7.905419922,3.3,ml,10.0,126.0,0.08446708631,0.3,tx,tx2022ezne,2022-03-12T21:56:04.138Z,"55 km S of Whites City, New Mexico",earthquake,1.344442851,1.66053511,0.2,7.0,reviewed,tx,tx
+2022-03-12T21:38:47.563Z,31.6678,-104.4169,10.42,2.5,ml,,62.0,0.071,0.35,us,us6000h433,2022-03-12T22:37:53.040Z,"56 km S of Whites City, New Mexico",earthquake,2.0,7.1,0.069,50.0,reviewed,us,us
