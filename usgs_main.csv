@@ -2533,3 +2533,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T22:54:08.220Z,38.8338318,-122.815834,1.7,0.36,md,8.0,123.0,0.01135,0.01,nc,nc73705171,2022-03-13T23:21:16.210Z,"8km NW of The Geysers, CA",earthquake,0.37,0.84,,1.0,automatic,nc,nc
 2022-03-13T22:16:50.428Z,14.0764,119.3572,10.0,4.7,mb,,119.0,9.446,0.47,us,us6000h4b9,2022-03-13T23:00:53.040Z,"77 km WNW of Cabra, Philippines",earthquake,8.9,1.9,0.099,31.0,reviewed,us,us
 2022-03-13T22:07:21.210Z,17.9296666666667,-66.9691666666667,10.72,2.27,md,5.0,232.0,,0.1,pr,pr71340083,2022-03-13T23:11:53.190Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.66,0.66,0.055385550900557,4.0,reviewed,pr,pr
+2022-03-13T23:28:45.101Z,61.2809,-141.1311,12.4,1.4,ml,,,,0.81,ak,ak0223bgk1zy,2022-03-13T23:35:34.112Z,"97 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
