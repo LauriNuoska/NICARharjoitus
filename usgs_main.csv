@@ -2552,3 +2552,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T22:13:38.223Z,-33.3158,-70.4471,104.99,3.7,mb,,60.0,0.129,0.27,us,us6000h4as,2022-03-14T01:56:34.138Z,"19 km E of Chicureo Abajo, Chile",earthquake,4.4,2.9,0.292,3.0,reviewed,us,us
 2022-03-13T18:28:47.062Z,22.7371,114.9822,10.0,3.8,mb,,145.0,0.901,0.52,us,us6000h4bm,2022-03-14T02:27:54.982Z,"37 km W of Shanwei, China",earthquake,7.1,2.0,0.294,3.0,reviewed,us,us
 2022-03-13T18:15:15.049Z,36.4733,-81.0447,5.0,1.7,ml,,50.0,0.548,0.41,us,us6000h4bk,2022-03-14T01:47:43.554Z,"7 km ESE of Sparta, North Carolina",earthquake,1.5,1.9,0.105,12.0,reviewed,us,us
+2022-03-14T02:54:47.560Z,38.8371658,-122.8239975,1.91,1.21,md,25.0,63.0,0.009085,0.02,nc,nc73705236,2022-03-14T02:56:20.988Z,"9km NW of The Geysers, CA",earthquake,0.2,0.4,0.09,6.0,automatic,nc,nc
+2022-03-14T02:52:12.080Z,35.8828333,-117.6891667,2.79,0.53,ml,9.0,78.0,0.07216,0.11,ci,ci40207136,2022-03-14T02:55:43.260Z,"20km ESE of Little Lake, CA",earthquake,0.36,0.5,0.058,5.0,automatic,ci,ci
+2022-03-14T02:41:49.517Z,59.9016,-152.7378,104.1,2.1,ml,,,,0.52,ak,ak0223cro3fk,2022-03-14T02:48:25.370Z,"52 km WNW of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
