@@ -2772,3 +2772,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T18:47:23.030Z,36.0026667,-117.4471667,0.11,1.76,ml,22.0,152.0,0.1421,0.16,ci,ci40207664,2022-03-14T18:51:06.538Z,"26km N of Searles Valley, CA",earthquake,0.45,31.61,0.167,25.0,automatic,ci,ci
 2022-03-14T18:08:27.943Z,-26.2976,71.7538,10.0,4.9,mb,,127.0,43.989,0.81,us,us6000h4ij,2022-03-14T19:05:41.040Z,Mid-Indian Ridge,earthquake,13.4,1.9,0.087,42.0,reviewed,us,us
 2022-03-14T16:36:42.400Z,18.1455,-68.4341,13.0,3.49,md,16.0,182.0,0.9844,0.57,pr,pr2022073001,2022-03-14T19:11:37.040Z,"31 km SE of Boca de Yuma, Dominican Republic",earthquake,1.74,3.25,0.32,12.0,reviewed,pr,pr
+2022-03-14T19:27:23.537Z,60.0726,-152.461,92.0,1.9,ml,,,,0.85,ak,ak0223d1penv,2022-03-14T19:32:13.637Z,"42 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-14T19:26:22.400Z,33.197,-115.6368333,3.17,1.46,ml,21.0,81.0,0.01829,0.17,ci,ci40207720,2022-03-14T19:32:45.032Z,"12km WSW of Niland, CA",earthquake,0.33,0.4,0.277,29.0,automatic,ci,ci
+2022-03-14T19:22:57.360Z,38.788166,-122.7509995,2.85,1.31,md,7.0,132.0,0.01219,0.01,nc,nc73705591,2022-03-14T19:32:10.715Z,"1km NNE of The Geysers, CA",earthquake,0.76,2.01,,1.0,automatic,nc,nc
+2022-03-14T19:22:28.250Z,38.7818336,-122.7536697,1.85,2.97,md,69.0,37.0,0.01332,0.08,nc,nc73705586,2022-03-14T19:33:14.417Z,"1km NNE of The Geysers, CA",earthquake,0.14,0.23,0.15,56.0,automatic,nc,nc
