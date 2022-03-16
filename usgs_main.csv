@@ -3248,3 +3248,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T08:50:20.666Z,-16.4839,-173.7828,92.1,4.8,mb,,52.0,3.206,1.03,us,us6000h4zq,2022-03-16T09:08:27.040Z,"58 km S of Hihifo, Tonga",earthquake,8.4,7.0,0.032,308.0,reviewed,us,us
 2022-03-16T08:43:40.513Z,-58.5247,-25.1777,10.0,4.7,mb,,127.0,7.575,0.57,us,us6000h4zp,2022-03-16T09:14:24.040Z,South Sandwich Islands region,earthquake,6.5,1.9,0.092,36.0,reviewed,us,us
 2022-03-15T18:04:47.590Z,37.5336667,-121.822,3.57,0.65,md,18.0,76.0,0.02015,0.06,nc,nc73706081,2022-03-16T09:19:13.289Z,"10km SE of Sunol, CA",earthquake,0.27,0.22,0.305,11.0,reviewed,nc,nc
+2022-03-16T09:39:04.738Z,61.2474,-150.2887,23.3,1.4,ml,,,,0.18,ak,ak0223g6wart,2022-03-16T09:42:14.562Z,"20 km SW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-16T09:36:17.250Z,38.836834,-122.8000031,1.97,0.85,md,8.0,105.0,0.007706,0.01,nc,nc73706346,2022-03-16T09:37:54.810Z,"7km WNW of Cobb, CA",earthquake,0.48,1.24,,1.0,automatic,nc,nc
+2022-03-16T09:33:50.076Z,62.6226,-151.7612,96.7,1.1,ml,,,,0.3,ak,ak0223g6v3yy,2022-03-16T09:42:03.158Z,"53 km WNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
