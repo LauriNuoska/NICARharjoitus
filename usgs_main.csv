@@ -3438,3 +3438,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T10:32:02.955Z,38.0932,-118.7474,9.1,1.3,ml,13.0,210.61,0.248,0.1286,nn,nn00835477,2022-03-17T00:06:16.184Z,"35 km E of Mono City, California",earthquake,,1.9,0.09,3.0,reviewed,nn,nn
 2022-03-16T10:03:28.229Z,39.9851,-119.5796,12.4,0.5,ml,4.0,183.62,0.193,0.0586,nn,nn00835476,2022-03-17T00:00:00.484Z,"4 km NNE of Sutcliffe, Nevada",earthquake,,6.4,0.16,2.0,reviewed,nn,nn
 2022-03-16T09:24:37.154Z,38.2191,-118.3237,5.5,0.1,ml,7.0,251.14,0.146,0.0707,nn,nn00835475,2022-03-16T23:56:51.961Z,"26 km SW of Mina, Nevada",earthquake,,11.0,0.0,1.0,reviewed,nn,nn
+2022-03-17T02:50:57.367Z,60.2851,-152.0911,72.9,1.8,ml,,,,0.62,ak,ak0223hqc2yw,2022-03-17T02:52:44.746Z,Southern Alaska,earthquake,,1.1,,,automatic,ak,ak
+2022-03-17T02:37:13.900Z,36.0241667,-117.775,1.75,0.97,ml,12.0,65.0,0.007964,0.18,ci,ci39969751,2022-03-17T02:40:54.873Z,"15km NE of Little Lake, CA",earthquake,0.33,0.35,0.176,13.0,automatic,ci,ci
+2022-03-17T00:29:56.568Z,38.2671,-108.9319,2.97,1.6,ml,,64.0,0.025,0.2,us,us6000h59h,2022-03-17T02:49:51.040Z,"28 km E of La Sal, Utah",earthquake,1.2,3.3,0.053,46.0,reviewed,us,us
