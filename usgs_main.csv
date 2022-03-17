@@ -3478,3 +3478,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T05:14:36.540Z,18.0111666666667,-66.9513333333333,8.93,2.12,md,5.0,170.0,,0.2,pr,pr71340513,2022-03-17T06:27:59.600Z,Puerto Rico region,earthquake,4.83,4.98,0.0716431493204912,4.0,reviewed,pr,pr
 2022-03-17T04:42:32.400Z,17.9158333333333,-66.9096666666667,11.08,2.04,md,3.0,267.0,,0.02,pr,pr71340503,2022-03-17T06:08:40.350Z,"6 km S of Guánica, Puerto Rico",earthquake,2.15,1.53,0.0806378285915414,3.0,reviewed,pr,pr
 2022-03-16T10:51:28.677Z,45.2949,-68.7303,5.0,1.3,ml,,105.0,0.397,0.45,us,us6000h5b4,2022-03-17T06:01:11.040Z,"7 km S of Seboeis, Maine",earthquake,1.6,1.9,0.128,8.0,reviewed,us,us
+2022-03-17T06:50:43.166Z,61.1272,-145.6679,21.0,1.9,ml,,,,0.78,ak,ak0223hspsad,2022-03-17T06:53:16.498Z,"36 km E of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
