@@ -3951,3 +3951,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T13:44:59.510Z,36.5688333,-121.0966667,10.73,0.97,md,16.0,127.0,0.04696,0.09,nc,nc73707216,2022-03-18T19:07:17.978Z,"6km NE of Pinnacles, CA",earthquake,0.32,0.43,0.195,14.0,reviewed,nc,nc
 2022-03-18T06:43:14.570Z,38.813,-122.762,1.62,0.66,md,40.0,64.0,0.01249,0.05,nc,nc73707091,2022-03-18T19:12:42.104Z,"4km WSW of Cobb, CA",earthquake,0.14,0.23,0.189,7.0,reviewed,nc,nc
 2022-03-18T18:46:10.840Z,17.9545,-66.876,14.39,2.84,md,21.0,205.0,,0.17,pr,pr71340748,2022-03-18T19:29:35.290Z,"2 km SSE of Maria Antonia, Puerto Rico",earthquake,0.37,0.39,0.0845681972305727,5.0,reviewed,pr,pr
+2022-03-18T19:37:51.460Z,38.8224983,-122.854332,5.6,0.37,md,9.0,76.0,0.02073,0.03,nc,nc73707356,2022-03-18T19:39:27.003Z,"10km WNW of The Geysers, CA",earthquake,0.5,1.46,,1.0,automatic,nc,nc
+2022-03-18T19:36:59.340Z,33.4591667,-116.4616667,12.11,0.52,ml,13.0,102.0,0.07076,0.13,ci,ci39971511,2022-03-18T19:46:58.648Z,"22km ESE of Anza, CA",earthquake,0.39,0.89,0.207,9.0,reviewed,ci,ci
