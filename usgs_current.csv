@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-18T08:42:43.639Z,60.0155,-152.739,97.6,2.5,ml,,,,0.6,ak,ak0223jheaex,2022-03-18T08:48:17.496Z,"56 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-18T08:39:52.667Z,59.7309,-152.8825,84.5,1.1,ml,,,,0.24,ak,ak0223jhdnuq,2022-03-18T08:48:29.285Z,"59 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-18T08:32:37.610Z,35.8613333,-117.6593333,11.86,0.53,ml,8,100,0.06777,0.09,ci,ci39970943,2022-03-18T08:36:10.115Z,"24km ESE of Little Lake, CA",earthquake,0.39,0.96,0.058,4,automatic,ci,ci
 2022-03-18T08:29:31.110Z,34.0181667,-116.8218333,14.38,0.64,ml,12,68,0.02057,0.11,ci,ci39970935,2022-03-18T08:33:06.597Z,"12km NNE of Banning, CA",earthquake,0.38,0.55,0.138,12,automatic,ci,ci
 2022-03-18T08:22:33.330Z,34.1501667,-117.6983333,7.59,1.26,ml,37,36,0.05798,0.22,ci,ci39970927,2022-03-18T08:26:34.571Z,"6km NNE of Claremont, CA",earthquake,0.32,0.67,0.191,27,automatic,ci,ci
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T07:14:11.100Z,19.0621,-65.1848,25,4.09,md,28,281,0.7609,0.43,pr,pr2022077000,2022-03-18T08:10:58.382Z,"84 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.04,28.31,0.09,17,reviewed,pr,pr
 2022-03-18T07:10:50.980Z,37.332,-121.6898333,7.65,0.9,md,22,50,0.03888,0.05,nc,nc73707116,2022-03-18T08:07:17.312Z,"13km ESE of Alum Rock, CA",earthquake,0.19,0.26,0.316,21,reviewed,nc,nc
 2022-03-18T07:06:12.230Z,32.7708333,-117.4108333,18.59,1.84,ml,20,222,0.2302,0.12,ci,ci39970879,2022-03-18T07:09:49.138Z,"15km WSW of La Jolla, CA",earthquake,0.56,0.78,0.182,27,automatic,ci,ci
-2022-03-18T07:04:06.640Z,37.3328333,-121.6915,7.51,1.07,md,18,81,0.03998,0.05,nc,nc73707111,2022-03-18T07:55:16.244Z,"13km ESE of Alum Rock, CA",earthquake,0.25,0.36,0.197,18,reviewed,nc,nc
+2022-03-18T07:04:06.660Z,37.334,-121.6908333,7.53,1.07,md,29,35,0.03922,0.07,nc,nc73707111,2022-03-18T08:44:58.133Z,"13km ESE of Alum Rock, CA",earthquake,0.18,0.29,0.18,23,reviewed,nc,nc
 2022-03-18T07:01:48.170Z,38.7913322,-122.7614975,2.11,0.21,md,12,75,0.009384,0.02,nc,nc73707106,2022-03-18T07:11:10.977Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.78,0.16,2,automatic,nc,nc
 2022-03-18T06:56:03.370Z,38.8235016,-122.7624969,1.59,0.45,md,13,127,0.009055,0.02,nc,nc73707101,2022-03-18T07:33:15.110Z,"3km W of Cobb, CA",earthquake,0.31,0.57,0.4,2,automatic,nc,nc
 2022-03-18T06:52:29.264Z,61.1363,-151.1722,59.9,1.1,ml,,,,0.47,ak,ak0223jg9j5a,2022-03-18T06:54:23.616Z,"4 km W of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -23,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T06:51:25.850Z,34.3673333,-117.659,10.26,1.33,ml,15,178,0.02163,0.21,ci,ci39970863,2022-03-18T06:55:04.055Z,"2km WNW of Wrightwood, CA",earthquake,0.59,0.79,0.367,30,automatic,ci,ci
 2022-03-18T06:48:43.520Z,38.8346672,-122.8073349,1.66,0.85,md,9,102,0.01146,0.01,nc,nc73707096,2022-03-18T07:22:18.045Z,"7km W of Cobb, CA",earthquake,0.44,1.22,,1,automatic,nc,nc
 2022-03-18T06:48:02.925Z,38.5199,-119.5438,1.6,1.8,ml,15,90.25,0.069,0.1664,nn,nn00835584,2022-03-18T06:51:30.218Z,"5 km W of Walker, California",earthquake,,2,0.22,10,automatic,nn,nn
+2022-03-18T06:35:56.970Z,40.1945,-121.2743333,9.61,1.63,md,13,110,0.1121,0.11,nc,nc73707086,2022-03-18T08:46:10.576Z,"9km WSW of Almanor, CA",earthquake,0.38,1.17,0.189,17,reviewed,nc,nc
 2022-03-18T06:35:41.840Z,35.426,-117.6811667,6.56,0.83,ml,18,107,0.05343,0.23,ci,ci39970855,2022-03-18T06:39:11.940Z,"7km NW of Johannesburg, CA",earthquake,0.46,0.89,0.105,12,automatic,ci,ci
 2022-03-18T06:31:32.004Z,13.1602,144.5752,66.5,4.7,mb,,61,0.513,0.8,us,us6000h5mp,2022-03-18T07:50:54.070Z,"15 km SW of Merizo Village, Guam",earthquake,10.9,7.5,0.111,25,reviewed,us,us
 2022-03-18T06:30:55.940Z,37.3328333,-121.6896667,7.68,0.95,md,26,56,0.03855,0.07,nc,nc73707081,2022-03-18T08:37:57.237Z,"13km ESE of Alum Rock, CA",earthquake,0.2,0.3,0.276,20,reviewed,nc,nc
@@ -230,7 +233,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T10:56:39.280Z,19.2163333892822,-155.412170410156,35.0699996948242,2.1099999,md,41,143,,0.109999999,hv,hv72953327,2022-03-17T10:59:48.760Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.54,0.689999998,1.40999997,14,automatic,hv,hv
 2022-03-17T10:52:45.300Z,38.7743333,-122.7116667,1.54,0.06,md,13,94,0.007266,0.03,nc,nc73706706,2022-03-17T19:40:48.311Z,"2km W of Anderson Springs, CA",earthquake,0.34,0.39,0.347,5,reviewed,nc,nc
 2022-03-17T10:52:03.860Z,37.6253333,-119.4038333,4.01,1.31,md,12,200,0.2737,0.18,nc,nc73706711,2022-03-17T17:26:13.840Z,"20km SE of Yosemite Valley, CA",earthquake,0.7,31.61,0.084,9,reviewed,nc,nc
-2022-03-17T10:47:30.718Z,62.1855,-151.9835,106.3,2.3,ml,,,,0.55,ak,ak0223hv2uk2,2022-03-17T10:59:16.555Z,"37 km NW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-17T10:47:30.718Z,62.1855,-151.9835,106.3,2.3,ml,,,,0.55,ak,ak0223hv2uk2,2022-03-18T08:41:50.040Z,"37 km NW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-17T10:43:12.494Z,37.8203,141.7918,56.12,4.7,mb,,101,3.018,0.74,us,us6000h5cf,2022-03-17T11:27:16.040Z,"79 km SSE of Ishinomaki, Japan",earthquake,8,6.7,0.037,224,reviewed,us,us
 2022-03-17T10:41:18.516Z,63.5285,-147.288,5,1.5,ml,,,,0.54,ak,ak0223hv1je3,2022-03-17T10:52:51.092Z,"83 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-17T10:34:23.190Z,19.0175,-66.3991666666667,25.94,3.12,md,15,251,,0.4,pr,pr71340543,2022-03-17T11:10:34.320Z,"61 km N of Brenas, Puerto Rico",earthquake,1.7,14.61,0.172241512561759,6,reviewed,pr,pr

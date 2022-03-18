@@ -3784,3 +3784,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T01:48:18.310Z,36.0765,-120.1661667,7.91,1.51,md,34.0,150.0,0.12,0.07,nc,nc73706976,2022-03-18T08:27:11.447Z,"9km NNW of Avenal, CA",earthquake,0.48,0.34,0.298,22.0,reviewed,nc,nc
 2022-03-17T23:59:45.130Z,38.8211667,-122.8065,2.95,0.4,md,25.0,39.0,0.00357,0.02,nc,nc73706936,2022-03-18T08:40:14.533Z,"6km NW of The Geysers, CA",earthquake,0.2,0.36,0.145,3.0,reviewed,nc,nc
 2022-03-17T23:52:37.910Z,38.7711667,-122.7265,1.27,0.34,md,18.0,51.0,0.009645,0.03,nc,nc73706926,2022-03-18T08:13:24.281Z,"3km ESE of The Geysers, CA",earthquake,0.21,0.32,0.136,4.0,reviewed,nc,nc
+2022-03-18T08:42:43.639Z,60.0155,-152.739,97.6,2.5,ml,,,,0.6,ak,ak0223jheaex,2022-03-18T08:48:17.496Z,"56 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-18T08:39:52.667Z,59.7309,-152.8825,84.5,1.1,ml,,,,0.24,ak,ak0223jhdnuq,2022-03-18T08:48:29.285Z,"59 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-18T06:35:56.970Z,40.1945,-121.2743333,9.61,1.63,md,13.0,110.0,0.1121,0.11,nc,nc73707086,2022-03-18T08:46:10.576Z,"9km WSW of Almanor, CA",earthquake,0.38,1.17,0.189,17.0,reviewed,nc,nc
