@@ -4164,3 +4164,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T11:55:02.510Z,38.8364983,-122.8010025,2.14,0.71,md,14.0,63.0,0.00854,0.02,nc,nc73707676,2022-03-19T12:21:13.375Z,"7km WNW of Cobb, CA",earthquake,0.29,0.65,0.14,2.0,automatic,nc,nc
 2022-03-19T11:44:03.117Z,-33.7699,-179.0636,33.77,4.6,mb,,114.0,4.347,0.48,us,us6000h60b,2022-03-19T12:06:36.040Z,south of the Kermadec Islands,earthquake,9.3,4.0,0.107,29.0,reviewed,us,us
 2022-03-19T11:30:15.060Z,17.9701666666667,-66.8913333333333,15.43,2.42,md,10.0,195.0,,0.17,pr,pr71340858,2022-03-19T12:40:55.930Z,"0 km SSW of Maria Antonia, Puerto Rico",earthquake,0.61,0.7,0.0716092786262372,5.0,reviewed,pr,pr
+2022-03-19T13:16:32.514Z,62.8361,-150.5243,85.7,1.6,ml,,,,0.56,ak,ak0223l7r7cj,2022-03-19T13:20:23.569Z,"39 km NNE of Petersville, Alaska",earthquake,,2.3,,,automatic,ak,ak
