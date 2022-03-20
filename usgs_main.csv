@@ -4454,3 +4454,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T23:11:10.530Z,60.6866,-144.2754,18.8,1.8,ml,,,,1.15,ak,ak0223n17rkm,2022-03-20T23:30:48.296Z,"82 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-20T23:03:46.890Z,17.9543333333333,-66.9045,8.98,2.16,md,4.0,209.0,,0.13,pr,pr71340983,2022-03-20T23:19:53.870Z,"1 km S of Guánica, Puerto Rico",earthquake,2.87,0.76,0.0639955598690012,2.0,reviewed,pr,pr
 2022-03-20T08:31:17.283Z,37.5189,-97.7481,5.0,2.2,mb_lg,,78.0,0.364,0.46,us,us6000h65p,2022-03-20T23:27:48.562Z,"9 km NNE of Milton, Kansas",earthquake,1.3,1.9,0.147,12.0,reviewed,us,us
+2022-03-20T23:40:58.140Z,38.8106651,-122.7928314,3.05,0.83,md,8.0,110.0,0.003314,0.02,nc,nc73708221,2022-03-20T23:42:35.660Z,"5km NW of The Geysers, CA",earthquake,0.49,1.14,,1.0,automatic,nc,nc
