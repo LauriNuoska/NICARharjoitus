@@ -4506,3 +4506,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T05:32:53.604Z,61.5673,2.4191,10.0,5.2,mww,,29.0,4.027,1.01,us,us6000h6bi,2022-03-21T06:47:06.678Z,"138 km W of Florø, Norway",earthquake,6.9,1.8,0.098,10.0,reviewed,us,us
 2022-03-21T05:30:04.840Z,17.9476666666667,-66.9541666666667,7.91,2.08,md,4.0,217.0,,0.05,pr,pr71341033,2022-03-21T06:21:39.850Z,"5 km WSW of Guánica, Puerto Rico",earthquake,2.13,0.39,0.194186979036947,3.0,reviewed,pr,pr
 2022-03-21T03:31:55.420Z,18.9478333333333,-65.997,20.16,3.14,md,12.0,262.0,,0.13,pr,pr71341018,2022-03-21T06:03:49.643Z,"54 km NNE of San Juan, Puerto Rico",earthquake,0.9,13.61,0.135389294104193,6.0,reviewed,pr,pr
+2022-03-21T06:49:59.782Z,65.5409,-148.3412,4.1,2.2,ml,,,,1.07,ak,ak0223oeuzu3,2022-03-21T06:55:54.459Z,"9 km E of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-21T06:48:52.869Z,38.6623,-118.4571,0.0,1.1,ml,8.0,308.89,0.246,0.2855,nn,nn00835720,2022-03-21T06:53:03.902Z,"21 km NE of Hawthorne, Nevada",earthquake,,63.1,0.1,4.0,automatic,nn,nn
