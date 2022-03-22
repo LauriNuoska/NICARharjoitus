@@ -5033,3 +5033,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T08:51:44.448Z,38.2339,-118.3298,5.1,0.5,ml,7.0,268.46,0.139,0.0781,nn,nn00835807,2022-03-22T23:11:37.223Z,"25 km SW of Mina, Nevada",earthquake,,21.0,0.0,1.0,reviewed,nn,nn
 2022-03-22T08:26:10.447Z,39.7156,-119.6389,12.2,0.2,ml,6.0,123.33,0.186,0.158,nn,nn00835805,2022-03-22T23:08:29.835Z,Nevada,earthquake,,3.9,0.58,4.0,reviewed,nn,nn
 2022-03-22T08:16:59.366Z,39.2381,-120.0878,7.8,0.0,ml,8.0,91.55,0.043,0.1149,nn,nn00835804,2022-03-22T23:02:07.523Z,"1 km NNW of Carnelian Bay, California",earthquake,,1.4,0.67,4.0,reviewed,nn,nn
+2022-03-22T23:36:20.380Z,38.8258324,-122.8010025,3.2,0.35,md,7.0,99.0,0.007492,0.01,nc,nc73709046,2022-03-22T23:37:56.993Z,"7km NW of The Geysers, CA",earthquake,0.57,2.91,,1.0,automatic,nc,nc
