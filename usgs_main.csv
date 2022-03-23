@@ -5072,3 +5072,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T12:56:10.729Z,38.5211,-119.53,2.2,0.3,ml,3.0,247.4,0.065,0.1439,nn,nn00835818,2022-03-23T02:38:47.113Z,"4 km W of Walker, California",earthquake,,14.4,0.23,2.0,reviewed,nn,nn
 2022-03-22T11:58:58.357Z,38.5313,-119.5123,4.6,0.3,ml,5.0,185.52,0.055,0.1436,nn,nn00835817,2022-03-23T02:38:46.117Z,"3 km WNW of Walker, California",earthquake,,3.4,0.02,2.0,reviewed,nn,nn
 2022-03-22T11:57:28.085Z,38.8801,-119.6479,0.0,0.5,ml,4.0,251.7,0.033,0.1079,nn,nn00835816,2022-03-23T02:38:45.191Z,"2 km NNW of Carter Springs, Nevada",earthquake,,0.0,0.32,2.0,reviewed,nn,nn
+2022-03-23T03:30:42.700Z,64.5109,-147.4026,12.2,0.8,ml,,,,0.56,ak,ak0223ro1a32,2022-03-23T03:43:41.797Z,"23 km SW of Eielson Air Force Base, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-23T03:30:09.378Z,-20.1885,-69.2495,90.68,4.1,mb,,120.0,0.101,0.55,us,us6000h6v8,2022-03-23T03:43:05.040Z,"94 km E of Iquique, Chile",earthquake,6.7,5.5,0.184,8.0,reviewed,us,us
+2022-03-23T03:29:32.550Z,38.7931671,-122.7131653,-0.73,0.86,md,10.0,108.0,0.02091,0.02,nc,nc73709101,2022-03-23T03:47:24.116Z,"3km NW of Anderson Springs, CA",earthquake,0.56,3.85,0.01,2.0,automatic,nc,nc
+2022-03-23T01:41:58.980Z,17.9681666666667,-66.9615,10.8,2.46,md,14.0,187.0,,0.19,pr,pr71341513,2022-03-23T03:20:54.280Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.49,0.72,0.170535164758914,8.0,reviewed,pr,pr
