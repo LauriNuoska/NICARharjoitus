@@ -5128,3 +5128,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T07:39:14.960Z,17.9636666666667,-67.0016666666667,13.11,2.14,md,12.0,195.0,,0.23,pr,pr71341578,2022-03-23T07:57:43.460Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.89,0.47,0.127037739164293,5.0,reviewed,pr,pr
 2022-03-23T07:14:21.330Z,17.9695,-66.953,10.48,2.14,md,10.0,185.0,,0.19,pr,pr71341568,2022-03-23T08:20:18.210Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.54,0.85,0.0365003128659946,4.0,reviewed,pr,pr
 2022-03-23T08:26:44.031Z,-23.5729,-66.8168,226.54,4.4,mb,,120.0,1.396,0.46,us,us6000h6w7,2022-03-23T08:48:16.040Z,"87 km NW of San Antonio de los Cobres, Argentina",earthquake,12.0,8.9,0.219,6.0,reviewed,us,us
+2022-03-23T09:26:56.747Z,64.6363,-146.8458,8.5,1.6,ml,,,,0.61,ak,ak0223rrl19u,2022-03-23T09:31:48.038Z,"10 km ESE of Eielson Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-23T09:21:42.419Z,62.1483,-149.5828,75.4,1.7,ml,,,,0.94,ak,ak0223rrjy8y,2022-03-23T09:24:16.184Z,"14 km E of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-23T09:13:13.100Z,19.1298332214355,-155.381164550781,31.3400001525879,1.99000001,md,42.0,186.0,,0.109999999,hv,hv72959812,2022-03-23T09:16:23.920Z,"13 km SE of Pāhala, Hawaii",earthquake,0.64,0.920000017,0.860000014,16.0,automatic,hv,hv
+2022-03-23T09:12:42.895Z,38.4937,-118.3445,0.3,0.9,ml,8.0,171.35,0.059,0.1057,nn,nn00835827,2022-03-23T09:16:52.383Z,California-Nevada border region,earthquake,,0.2,0.31,5.0,automatic,nn,nn
+2022-03-23T08:57:24.646Z,38.4976,-118.3241,2.3,1.9,ml,16.0,98.27,0.284,0.3548,nn,nn00835824,2022-03-23T09:01:09.136Z,"22 km WNW of Mina, Nevada",earthquake,,2.0,0.18,9.0,automatic,nn,nn
+2022-03-23T08:50:08.770Z,19.234167098999,-155.431838989258,27.8400001525879,1.74000001,md,12.0,195.0,,0.0900000036,hv,hv72959797,2022-03-23T08:53:18.580Z,"6 km NE of Pāhala, Hawaii",earthquake,1.0,1.55999994,0.689999998,3.0,automatic,hv,hv
