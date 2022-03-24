@@ -5648,3 +5648,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T11:09:51.098Z,41.9835,-119.6069,1.4,1.6,ml,5.0,246.87,0.524,0.2327,nn,nn00835981,2022-03-24T23:08:28.217Z,"47 km ENE of Fort Bidwell, California",earthquake,,5.0,0.87,4.0,reviewed,nn,nn
 2022-03-24T09:47:44.445Z,41.9604,-119.5596,0.0,1.9,ml,5.0,227.83,0.556,0.095,nn,nn00835980,2022-03-24T23:02:12.417Z,"50 km ENE of Fort Bidwell, California",earthquake,,3.8,0.64,4.0,reviewed,nn,nn
 2022-03-24T05:47:12.300Z,53.3766666666667,-168.189666666667,0.0,0.82,ml,5.0,290.0,,0.09,av,av91052718,2022-03-24T23:08:01.340Z,"66 km NE of Nikolski, Alaska",earthquake,0.47,0.28,0.276278162559246,4.0,reviewed,av,av
+2022-03-24T23:36:23.000Z,64.0429,-148.7581,4.1,1.4,ml,,,,1.35,ak,ak0223tnij8v,2022-03-24T23:40:28.238Z,"17 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-24T19:28:58.958Z,41.9596,-119.5449,0.0,2.0,ml,4.0,213.31,0.567,0.067,nn,nn00835992,2022-03-24T23:39:38.122Z,"51 km ENE of Fort Bidwell, California",earthquake,,0.0,0.65,3.0,reviewed,nn,nn
+2022-03-24T19:06:22.065Z,41.9483,-119.6268,9.1,0.8,ml,4.0,307.03,0.505,0.0995,nn,nn00835990,2022-03-24T23:33:24.714Z,"44 km ENE of Fort Bidwell, California",earthquake,,7.4,0.73,2.0,reviewed,nn,nn
+2022-03-24T18:35:31.220Z,38.8445,-122.8168333,1.66,0.38,md,20.0,70.0,0.01135,0.02,nc,nc73709886,2022-03-24T23:35:39.579Z,"8km WNW of Cobb, CA",earthquake,0.2,0.46,0.228,4.0,reviewed,nc,nc
