@@ -6011,3 +6011,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T04:56:50.025Z,36.8428,-104.814,5.0,2.7,ml,,164.0,0.056,0.95,us,us7000gxfm,2022-03-26T05:09:49.040Z,"31 km S of Segundo, Colorado",earthquake,5.7,2.0,0.057,40.0,reviewed,us,us
 2022-03-25T21:15:53.542Z,-20.3624,-70.0684,17.97,2.6,ml,,169.0,0.868,0.55,us,us7000gxfq,2022-03-26T05:11:10.040Z,"18 km SSE of Iquique, Chile",earthquake,3.7,8.0,0.081,20.0,reviewed,us,us
 2022-03-25T18:00:44.315Z,17.446,-62.6961,11.21,3.2,ml,,157.0,0.276,0.18,us,us7000gxfl,2022-03-26T05:01:47.691Z,"9 km NE of Nicola Town, Saint Kitts and Nevis",earthquake,4.1,10.3,0.077,22.0,reviewed,us,us
+2022-03-26T05:34:47.985Z,65.3926,-145.1159,7.4,2.5,ml,,,,0.61,ak,ak0223wnv21f,2022-03-26T05:38:56.384Z,"24 km SW of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
