@@ -6189,3 +6189,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T22:11:47.240Z,38.7675018,-122.6956635,5.23,0.4,md,8.0,202.0,0.002906,0.03,nc,nc73710791,2022-03-26T22:34:13.207Z,"1km SSW of Anderson Springs, CA",earthquake,1.51,1.87,,1.0,automatic,nc,nc
 2022-03-26T22:08:54.590Z,35.6743333,-117.458,10.68,1.57,ml,16.0,115.0,0.08771,0.16,ci,ci39979351,2022-03-26T22:12:31.318Z,"11km SSW of Searles Valley, CA",earthquake,0.44,0.76,0.175,18.0,automatic,ci,ci
 2022-03-26T22:03:39.690Z,36.0144997,-120.5770035,3.27,1.91,md,24.0,78.0,0.03314,0.05,nc,nc73710786,2022-03-26T22:22:13.017Z,"18km NW of Parkfield, CA",earthquake,0.26,0.44,0.19,12.0,automatic,nc,nc
+2022-03-26T22:36:18.090Z,35.6765,-117.4113333,4.25,1.22,ml,14.0,130.0,0.0989,0.14,ci,ci39979391,2022-03-26T22:39:42.546Z,"10km S of Searles Valley, CA",earthquake,0.44,0.82,0.07,8.0,automatic,ci,ci
