@@ -6202,3 +6202,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T22:54:52.035Z,-6.7763,129.9243,114.28,4.1,mb,,93.0,1.815,0.85,us,us7000gxka,2022-03-26T23:12:32.040Z,Banda Sea,earthquake,8.2,9.1,0.127,17.0,reviewed,us,us
 2022-03-26T22:24:03.629Z,65.8121,-163.507,13.66,2.5,ml,,108.0,0.482,0.7,us,us7000gxk8,2022-03-26T22:55:22.040Z,"46 km SW of Deering, Alaska",earthquake,4.4,6.9,0.06,36.0,reviewed,us,us
 2022-03-26T19:26:27.490Z,37.5523333,-118.9986667,3.01,0.74,md,6.0,276.0,0.06297,0.03,nc,nc73710746,2022-03-26T23:30:13.408Z,"10km S of Mammoth Lakes, CA",earthquake,0.76,1.18,0.115,5.0,reviewed,nc,nc
+2022-03-26T21:55:05.130Z,37.5628333,-118.993,2.72,0.82,md,9.0,252.0,0.07894,0.05,nc,nc73710781,2022-03-26T23:38:25.014Z,"8km S of Mammoth Lakes, CA",earthquake,0.55,2.21,0.099,9.0,reviewed,nc,nc
