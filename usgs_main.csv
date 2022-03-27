@@ -6250,3 +6250,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T02:30:15.120Z,18.9468333333333,-67.4485,17.32,3.05,md,16.0,230.0,,0.23,pr,pr71342183,2022-03-27T03:17:44.640Z,"62 km NW of San Antonio, Puerto Rico",earthquake,0.99,2.72,0.15419389929636,13.0,reviewed,pr,pr
 2022-03-27T02:16:00.530Z,17.9556666666667,-66.9975,11.29,1.9,md,5.0,208.0,,0.08,pr,pr71342178,2022-03-27T03:14:04.610Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.71,0.87,0.0236351195881317,3.0,reviewed,pr,pr
 2022-03-27T01:16:28.060Z,37.549,-118.8575,6.74,0.63,md,10.0,209.0,0.04676,0.12,nc,nc73710886,2022-03-27T03:18:12.867Z,"14km SE of Mammoth Lakes, CA",earthquake,0.89,1.48,0.193,10.0,reviewed,nc,nc
+2022-03-27T03:42:55.590Z,38.7905006,-122.7610016,1.87,1.57,md,29.0,62.0,0.01016,0.03,nc,nc73710966,2022-03-27T03:46:24.226Z,"2km NNW of The Geysers, CA",earthquake,0.2,0.32,0.1,9.0,automatic,nc,nc
+2022-03-27T03:39:34.810Z,59.764,-153.4659,127.5,1.9,ml,,,,0.61,ak,ak0223ya8kwz,2022-03-27T03:45:54.040Z,"36 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-27T03:27:41.970Z,31.6495,-104.4027,5.0,2.5,ml,,102.0,0.085,0.39,us,us7000gxlm,2022-03-27T03:41:25.040Z,"58 km S of Whites City, New Mexico",earthquake,1.2,2.0,0.091,56.0,reviewed,us,us
