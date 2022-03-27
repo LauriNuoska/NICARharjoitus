@@ -68,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T05:57:35.442Z,-31.6909,-67.2431,125.81,4.6,mb,,66,1.238,0.55,us,us7000gxm6,2022-03-27T06:44:52.040Z,"98 km E of Caucete, Argentina",earthquake,8.1,7,0.129,19,reviewed,us,us
 2022-03-27T05:57:10.380Z,19.1513328552246,-155.471496582031,32.3300018310547,1.99000001,md,36,161,,0.159999996,hv,hv72963422,2022-03-27T06:00:16.010Z,"5 km S of Pāhala, Hawaii",earthquake,0.77,1.17999995,0.970000029,12,automatic,hv,hv
 2022-03-27T05:53:51.300Z,-6.508,106.0525,144.21,4.5,mb,,119,1.847,0.8,us,us7000gxm5,2022-03-27T06:36:03.040Z,"22 km SSW of Pandeglang, Indonesia",earthquake,5.8,8.2,0.096,32,reviewed,us,us
-2022-03-27T05:53:03.725Z,0.8396,-79.6443,10.49,5.2,mww,,133,1.334,0.55,us,us7000gxm3,2022-03-27T13:04:30.763Z,"13 km S of Esmeraldas, Ecuador",earthquake,2.7,4.2,0.062,25,reviewed,us,us
+2022-03-27T05:53:03.725Z,0.8396,-79.6443,10.49,5.2,mww,,133,1.334,0.55,us,us7000gxm3,2022-03-27T13:39:30.162Z,"13 km S of Esmeraldas, Ecuador",earthquake,2.7,4.2,0.062,25,reviewed,us,us
 2022-03-27T05:50:40.260Z,36.7131667,-121.3493333,3.19,0.87,md,14,193,0.006131,0.07,nc,nc73711041,2022-03-27T07:05:19.159Z,"9km SSW of Tres Pinos, CA",earthquake,0.68,0.27,0.202,13,reviewed,nc,nc
 2022-03-27T05:50:34.440Z,38.8253326,-122.7986679,1.71,0.35,md,11,65,0.009117,0.02,nc,nc73711031,2022-03-27T06:43:14.158Z,"6km NW of The Geysers, CA",earthquake,0.31,0.95,,1,automatic,nc,nc
 2022-03-27T05:35:34.655Z,51.6827,-178.5105,13.7,1.7,ml,,,,0.57,ak,ak0223ybej8f,2022-03-27T06:15:28.748Z,"131 km W of Adak, Alaska",earthquake,,4.2,,,reviewed,ak,ak
@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T13:53:21.069Z,20.8222,122.0982,10,5.1,mww,,46,2.199,1.22,us,us7000gxhw,2022-03-26T16:08:20.040Z,"43 km NNE of Basco, Philippines",earthquake,7.4,1.8,0.052,35,reviewed,us,us
 2022-03-26T13:52:15.390Z,38.7938347,-122.7494965,2.23,0.86,md,15,91,0.01047,0.02,nc,nc73710601,2022-03-26T16:01:12.752Z,"2km NNE of The Geysers, CA",earthquake,0.27,0.82,0.24,4,automatic,nc,nc
 2022-03-26T13:48:07.630Z,43.723,-121.242,-0.76,1.16,ml,11,92,0.01773,0.14,uw,uw61816532,2022-03-26T21:32:13.830Z,"21 km ESE of Three Rivers, Oregon",earthquake,0.26,0.21,0.26003125627355556,9,reviewed,uw,uw
-2022-03-26T13:45:09.540Z,17.9508333333333,-66.9923333333333,5.75,1.93,md,5,214,,0.04,pr,pr71342133,2022-03-26T14:11:26.530Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,0.45,0.81,0.0995144333716904,5,reviewed,pr,pr
-2022-03-26T13:43:27.780Z,63.0838,-151.5339,10.8,1.6,ml,,,,0.79,ak,ak0223wsoes2,2022-03-26T13:50:29.395Z,"51 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
