@@ -6506,3 +6506,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T06:00:20.860Z,62.3084,-151.196,78.7,1.8,ml,,,,0.37,ak,ak0223zzbu7a,2022-03-28T06:02:09.950Z,"30 km SW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-28T05:06:25.190Z,17.9583333333333,-67.0018333333333,7.22,2.06,md,8.0,205.0,,0.07,pr,pr71342348,2022-03-28T06:11:47.460Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.44,0.26,0.069602219413091,5.0,reviewed,pr,pr
 2022-03-28T05:00:14.190Z,17.9638333333333,-66.7805,18.49,1.87,md,8.0,208.0,,0.24,pr,pr71342343,2022-03-28T06:00:05.870Z,"5 km SE of Indios, Puerto Rico",earthquake,1.12,1.29,0.0546762636190481,5.0,reviewed,pr,pr
+2022-03-28T06:50:22.152Z,60.3053,-150.9068,57.5,1.8,ml,,,,0.33,ak,ak0223zzmk3r,2022-03-28T06:53:30.789Z,"20 km E of Kasilof, Alaska",earthquake,,1.3,,,automatic,ak,ak
