@@ -6809,3 +6809,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T10:47:20.688Z,38.234,-118.3843,0.0,1.4,ml,9.0,144.28,0.096,0.1408,nn,nn00836236,2022-03-29T10:51:25.252Z,"29 km SW of Mina, Nevada",earthquake,,19.7,0.24,5.0,automatic,nn,nn
 2022-03-29T10:16:58.920Z,17.9443333333333,-66.8941666666667,7.26,2.9,md,17.0,200.0,,0.28,pr,pr71342553,2022-03-29T11:09:29.530Z,"3 km SSE of Guánica, Puerto Rico",earthquake,0.86,0.35,0.213604145577484,10.0,reviewed,pr,pr
 2022-03-29T09:56:11.440Z,19.375,-67.7135,49.0,3.69,md,21.0,207.0,1.0178,0.37,pr,pr2022088000,2022-03-29T11:03:39.736Z,"114 km NE of Punta Cana, Dominican Republic",earthquake,1.85,7.7,0.12,15.0,reviewed,pr,pr
+2022-03-29T11:46:55.002Z,38.5276,-119.5275,3.2,1.4,ml,8.0,195.34,0.059,0.1179,nn,nn00836238,2022-03-29T11:50:35.324Z,"4 km WNW of Walker, California",earthquake,,0.6,0.29,6.0,automatic,nn,nn
+2022-03-29T11:40:20.230Z,33.807,-117.0885,11.24,1.3,ml,9.0,131.0,0.3267,0.22,ci,ci39981063,2022-03-29T11:43:53.229Z,"5km E of Nuevo, CA",earthquake,1.45,31.61,0.16,19.0,automatic,ci,ci
