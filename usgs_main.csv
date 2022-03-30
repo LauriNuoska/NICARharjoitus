@@ -7211,3 +7211,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T08:47:19.516Z,31.6718,-104.3863,6.4,3.3,ml,,58.0,0.097,0.36,us,us7000gyd7,2022-03-30T08:57:32.040Z,"55 km S of Whites City, New Mexico",earthquake,1.8,1.9,0.049,54.0,reviewed,us,us
 2022-03-30T08:47:06.190Z,17.979,-66.9598333333333,8.96,2.43,md,26.0,162.0,,0.15,pr,pr71342683,2022-03-30T09:05:22.630Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.26,0.43,0.086126918548012,17.0,reviewed,pr,pr
 2022-03-30T08:39:10.500Z,18.0221666666667,-66.7595,14.14,2.18,md,15.0,110.0,,0.17,pr,pr71342673,2022-03-30T08:59:40.490Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.41,0.51,0.161128304622299,9.0,reviewed,pr,pr
+2022-03-30T09:44:49.929Z,56.7138,-155.5455,0.0,2.6,ml,,,,0.88,ak,ak02243cgc3n,2022-03-30T09:49:41.654Z,"87 km WSW of Akhiok, Alaska",earthquake,,0.8,,,automatic,ak,ak
