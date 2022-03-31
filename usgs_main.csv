@@ -7621,3 +7621,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T19:43:08.877Z,35.42299652,-97.8493576,1.033906341,2.3,ml,22.0,56.01675415,0.06334371865,1.152427383,ok,ok2022gicu,2022-03-31T19:48:21.934Z,"9 km ENE of Union City, Oklahoma",earthquake,2.372074226,2.261185603,,18.0,automatic,ok,ok
 2022-03-31T19:40:19.880Z,40.4718,-118.6385,16.0,1.8,ml,8.0,201.23,0.793,0.3162,nn,nn00836429,2022-03-31T19:44:00.585Z,"35 km NNW of Lovelock, Nevada",earthquake,,1.1,0.27,4.0,automatic,nn,nn
 2022-03-31T19:35:48.780Z,19.2076663970947,-155.37483215332,34.939998626709,2.01999998,md,37.0,160.0,,0.119999997,hv,hv72969117,2022-03-31T19:38:50.950Z,"10 km E of Pāhala, Hawaii",earthquake,0.59,0.699999988,0.400000006,13.0,automatic,hv,hv
+2022-03-31T20:10:48.990Z,36.1846667,-118.0101667,0.1,0.77,ml,10.0,87.0,0.1424,0.15,ci,ci39983015,2022-03-31T20:14:28.549Z,"11km S of Olancha, CA",earthquake,0.56,0.81,0.116,6.0,automatic,ci,ci
+2022-03-31T20:06:46.933Z,60.8994,-152.4487,12.4,0.8,ml,,,,0.35,ak,ak022456bat7,2022-03-31T20:15:24.697Z,"67 km WNW of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-31T20:05:10.760Z,37.4095,-118.5993333,11.03,2.21,md,21.0,71.0,0.06315,0.04,nc,nc73712766,2022-03-31T20:29:01.050Z,"1km SSW of Round Valley, CA",earthquake,0.45,1.41,0.257,25.0,reviewed,nc,nc
+2022-03-31T19:58:41.070Z,38.8064995,-122.7908325,0.62,0.73,md,17.0,48.0,0.003788,0.03,nc,nc73712761,2022-03-31T20:16:15.311Z,"4km NW of The Geysers, CA",earthquake,0.2,0.4,0.24,3.0,automatic,nc,nc
+2022-03-31T19:57:05.438Z,40.5032,-118.6094,15.8,2.5,ml,15.0,204.34,0.808,0.6451,nn,nn00836431,2022-03-31T20:01:03.774Z,"32 km WSW of Humboldt, Nevada",earthquake,,0.7,0.18,9.0,automatic,nn,nn
+2022-03-31T19:50:51.261Z,64.9149,-147.9833,0.0,1.7,ml,,,,1.07,ak,ak022455zaqf,2022-03-31T20:01:58.481Z,"7 km N of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-31T19:50:40.304Z,-22.7317,170.6514,10.0,6.3,mww,,97.0,2.962,0.7,us,us7000gysz,2022-03-31T20:30:41.703Z,southeast of the Loyalty Islands,earthquake,7.6,1.9,0.098,10.0,reviewed,us,us
+2022-03-31T19:49:35.179Z,64.6561,-151.767,17.9,1.2,ml,,,,0.63,ak,ak022455z1ql,2022-03-31T19:52:20.460Z,"59 km SSE of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-31T19:47:50.750Z,34.4005,-116.464,3.84,1.4,ml,36.0,52.0,0.1276,0.14,ci,ci39982967,2022-03-31T20:30:07.294Z,"32km N of Yucca Valley, CA",earthquake,0.15,0.54,0.126,24.0,reviewed,ci,ci
+2022-03-31T19:22:41.700Z,34.022,-116.4218333,10.14,0.29,ml,7.0,113.0,0.05412,0.08,ci,ci39982927,2022-03-31T20:18:16.704Z,"10km NE of Desert Hot Springs, CA",earthquake,0.24,0.57,0.016,2.0,reviewed,ci,ci
+2022-03-31T19:14:28.473Z,64.8844,-147.8782,9.6,0.3,ml,,,,1.23,ak,ak022455ri01,2022-03-31T20:06:07.235Z,"4 km NW of College, Alaska",earthquake,,0.8,,,reviewed,ak,ak
