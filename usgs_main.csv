@@ -7731,3 +7731,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T03:49:39.850Z,35.3226667,-117.7833333,4.7,1.09,ml,15.0,67.0,0.07517,0.21,ci,ci39983311,2022-04-01T03:53:15.026Z,"15km WSW of Johannesburg, CA",earthquake,0.53,0.78,0.104,18.0,automatic,ci,ci
 2022-04-01T03:44:32.785Z,63.3902,-151.3418,0.0,1.8,ml,,,,0.79,ak,ak02246jyds7,2022-04-01T03:53:00.341Z,"25 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-01T03:39:39.195Z,60.6022,-150.643,19.4,2.1,ml,,,,0.65,ak,ak02246jxbq8,2022-04-01T03:52:10.126Z,"9 km NE of Sterling, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-04-01T04:48:08.310Z,38.8143349,-122.7926636,-0.17,0.84,md,9.0,74.0,0.006684,0.02,nc,nc73712961,2022-04-01T04:49:43.510Z,"5km NW of The Geysers, CA",earthquake,0.26,0.85,,1.0,automatic,nc,nc
