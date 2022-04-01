@@ -7835,3 +7835,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T13:05:18.024Z,-22.5837,170.2656,10.0,5.5,mww,,32.0,2.605,0.85,us,us7000gyza,2022-04-01T14:19:47.775Z,"271 km ESE of Tadine, New Caledonia",earthquake,5.6,1.7,0.089,12.0,reviewed,us,us
 2022-04-01T12:45:43.570Z,44.2811667,-115.0706667,5.77,1.43,ml,7.0,126.0,0.861,0.3,mb,mb80541914,2022-04-01T13:53:59.090Z,"12 km NW of Stanley, Idaho",earthquake,0.92,5.02,0.24,5.0,reviewed,mb,mb
 2022-04-01T02:51:19.450Z,44.2735,-114.7688333,3.39,2.0,ml,10.0,90.0,0.756,0.2,mb,mb80541899,2022-04-01T14:04:25.970Z,"14 km ENE of Stanley, Idaho",earthquake,0.54,3.39,0.248,14.0,reviewed,mb,mb
+2022-04-01T14:36:29.000Z,36.0223333,-117.7695,-0.03,0.68,ml,6.0,148.0,0.004478,0.04,ci,ci39983671,2022-04-01T14:40:12.011Z,"16km NE of Little Lake, CA",earthquake,0.31,31.61,0.108,5.0,automatic,ci,ci
+2022-04-01T14:36:21.420Z,35.0078333,-118.885,16.65,1.54,ml,25.0,69.0,0.09634,0.29,ci,ci39983663,2022-04-01T14:39:53.644Z,"8km NNE of Grapevine, CA",earthquake,0.53,1.22,0.213,30.0,automatic,ci,ci
