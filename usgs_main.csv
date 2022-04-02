@@ -8106,3 +8106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T11:49:54.868Z,63.1226,-150.626,111.2,1.1,ml,,,,0.39,ak,ak02248cabem,2022-04-02T11:53:30.746Z,"70 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-02T11:24:12.667Z,31.02,139.8282,174.5,4.4,mb,,95.0,2.089,0.67,us,us7000gz7d,2022-04-02T11:50:37.040Z,"Izu Islands, Japan region",earthquake,7.9,7.0,0.066,67.0,reviewed,us,us
 2022-04-02T11:22:01.896Z,55.601,164.8474,34.09,4.6,mb,,94.0,4.453,0.5,us,us7000gz7f,2022-04-02T12:03:35.040Z,"163 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,8.4,5.3,0.04,189.0,reviewed,us,us
+2022-04-02T13:32:41.550Z,37.4086685,-118.5865021,12.13,2.11,md,17.0,81.0,0.05842,0.03,nc,nc73713371,2022-04-02T13:34:17.526Z,"1km ESE of Round Valley, CA",earthquake,0.5,1.34,0.17,20.0,automatic,nc,nc
+2022-04-02T13:28:53.811Z,61.7085,-146.1087,19.6,1.6,ml,,,,0.92,ak,ak02248dcohx,2022-04-02T13:34:28.928Z,"41 km S of Tolsona, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-02T13:21:26.939Z,63.3437,-149.9876,99.8,1.9,ml,,,,0.67,ak,ak02248db4fz,2022-04-02T13:33:29.299Z,"52 km W of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-02T06:13:10.632Z,32.21466064,-102.215725,5.453409831,2.2,ml,14.0,79.0,0.09453203957,0.1,tx,tx2022gktc,2022-04-02T13:13:44.909Z,"26 km NE of Gardendale, Texas",earthquake,0.9830188655,3.013477369,0.2,15.0,reviewed,tx,tx
