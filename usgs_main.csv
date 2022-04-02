@@ -8167,3 +8167,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T15:37:16.207Z,54.4659,-161.5283,18.1,1.9,ml,,,,0.54,ak,ak02248eldj0,2022-04-02T20:29:24.214Z,"83 km SE of King Cove, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-04-02T01:55:10.020Z,51.6685,-179.9312,76.1,2.0,ml,,,,0.37,ak,ak022486d6m0,2022-04-02T20:12:05.342Z,"228 km W of Adak, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-04-01T20:58:40.810Z,35.4341667,-120.5735,-0.32,1.45,md,32.0,71.0,0.03488,0.09,nc,nc73713166,2022-04-02T20:04:41.584Z,"6km NNE of Santa Margarita, CA",quarry blast,0.15,31.61,0.154,17.0,reviewed,nc,nc
+2022-04-02T20:36:44.350Z,38.8103333,-122.7926636,3.12,0.84,md,20.0,37.0,0.003135,0.02,nc,nc73713511,2022-04-02T20:38:17.134Z,"5km NW of The Geysers, CA",earthquake,0.25,0.59,0.04,4.0,automatic,nc,nc
+2022-04-02T20:34:32.620Z,33.3761673,-116.9708328,9.26,0.88,ml,23.0,60.0,0.05262,0.21,ci,ci39984807,2022-04-02T20:38:09.685Z,"10km E of Pala, CA",earthquake,0.38,1.01,0.195,10.0,automatic,ci,ci
+2022-04-02T19:58:01.887Z,51.0658,176.3193,28.7,2.8,ml,,,,0.43,ak,ak02248h3myf,2022-04-02T20:42:39.657Z,"292 km SE of Attu Station, Alaska",earthquake,,1.9,,,reviewed,ak,ak
+2022-04-02T19:45:15.626Z,51.6072,-173.7321,9.6,2.0,ml,,,,0.33,ak,ak02248h0ut4,2022-04-02T20:38:23.989Z,"73 km SSE of Atka, Alaska",earthquake,,3.8,,,reviewed,ak,ak
+2022-04-02T19:10:33.609Z,57.4951,-155.1321,75.3,1.4,ml,,,,0.3,ak,ak02248gte75,2022-04-02T20:36:02.965Z,"41 km WSW of Karluk, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2022-04-02T17:53:13.960Z,18.0345,-67.079,14.01,2.05,md,6.0,177.0,,0.1,pr,pr71343093,2022-04-02T20:41:46.180Z,"0 km SSW of Palmarejo, Puerto Rico",earthquake,0.59,0.7,,1.0,reviewed,pr,pr
+2022-04-02T15:52:13.308Z,52.2194,-173.331,78.7,2.5,ml,,,,0.59,ak,ak02248eomel,2022-04-02T20:32:03.788Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.7,,,reviewed,ak,ak
