@@ -8061,3 +8061,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T07:52:11.170Z,38.840332,-122.8218307,1.69,0.37,md,10.0,94.0,0.01081,0.01,nc,nc73713286,2022-04-02T07:53:48.020Z,"9km WNW of Cobb, CA",earthquake,0.35,1.09,,1.0,automatic,nc,nc
 2022-04-02T07:36:46.210Z,17.9386666666667,-66.881,10.94,1.44,md,7.0,227.0,,0.22,pr,pr71343048,2022-04-02T08:04:10.820Z,"4 km SSE of Maria Antonia, Puerto Rico",earthquake,0.94,1.19,0.20272173326094,7.0,reviewed,pr,pr
 2022-04-02T07:27:14.409Z,36.4967,140.5984,51.08,4.6,mb,,123.0,1.925,0.62,us,us7000gz6g,2022-04-02T08:37:34.069Z,"4 km NE of Funaishikawa, Japan",earthquake,7.1,6.5,0.054,104.0,reviewed,us,us
+2022-04-02T08:41:35.420Z,35.639,-117.4551667,5.46,1.29,ml,17.0,116.0,0.0527,0.16,ci,ci39984359,2022-04-02T08:45:18.309Z,"15km SSW of Searles Valley, CA",earthquake,0.47,0.9,0.124,15.0,automatic,ci,ci
