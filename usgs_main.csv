@@ -8317,3 +8317,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T09:54:14.495Z,58.2182,-155.1711,36.4,0.9,ml,,,,0.51,ak,ak02249yns5l,2022-04-03T10:18:43.734Z,"83 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-03T09:25:55.959Z,26.526,126.4621,10.0,4.7,mb,,86.0,1.648,0.39,us,us7000gzbx,2022-04-03T10:11:25.040Z,"126 km WNW of Naha, Japan",earthquake,5.9,1.6,0.086,41.0,reviewed,us,us
 2022-04-02T18:58:52.430Z,37.9001667,-121.8375,13.37,1.69,md,27.0,177.0,0.05642,0.09,nc,nc73713481,2022-04-03T10:24:11.488Z,"10km ESE of Clayton, CA",earthquake,0.31,0.53,0.181,25.0,reviewed,nc,nc
+2022-04-03T10:24:56.542Z,9.2256,126.6692,28.72,5.5,mww,,75.0,2.398,0.77,us,us7000gzcf,2022-04-03T10:47:26.872Z,"51 km ENE of La Paz, Philippines",earthquake,7.7,4.5,0.08,15.0,reviewed,us,us
