@@ -8272,3 +8272,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T05:44:30.240Z,17.9558333333333,-66.8726666666667,18.91,2.45,md,10.0,204.0,,0.09,pr,pr71343188,2022-04-03T06:08:24.510Z,"3 km SE of Maria Antonia, Puerto Rico",earthquake,0.72,0.35,0.195853134979608,7.0,reviewed,pr,pr
 2022-04-03T03:52:53.300Z,17.9575,-66.9366666666667,12.5,2.39,md,9.0,205.0,,0.08,pr,pr71343178,2022-04-03T05:57:16.130Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.56,0.3,0.198073511203721,7.0,reviewed,pr,pr
 2022-04-02T12:16:35.258Z,44.4816,-69.5434,8.02,2.0,ml,,160.0,0.118,0.2,us,us7000gzax,2022-04-03T06:00:40.040Z,"2 km W of China, Maine",earthquake,2.1,1.4,0.148,6.0,reviewed,us,us
+2022-04-03T07:22:14.600Z,33.4948333,-116.501,12.89,0.96,ml,36.0,59.0,0.06734,0.2,ci,ci39985055,2022-04-03T07:25:55.530Z,"17km ESE of Anza, CA",earthquake,0.25,0.48,0.177,28.0,automatic,ci,ci
