@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-06T07:10:00.500Z,38.7898331,-122.7628326,1.8,0.87,md,16,66,0.01105,0.03,nc,nc73714936,2022-04-06T07:11:35.194Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.5,0.11,4,automatic,nc,nc
+2022-04-06T07:10:00.500Z,38.7898331,-122.7628326,1.8,0.87,md,16,66,0.01105,0.03,nc,nc73714936,2022-04-06T07:46:15.639Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.5,0.11,4,automatic,nc,nc
 2022-04-06T07:09:33.010Z,38.7890015,-122.7618332,1.24,1.41,md,28,64,0.01172,0.05,nc,nc73714931,2022-04-06T07:35:22.579Z,"1km NNW of The Geysers, CA",earthquake,0.24,0.38,0.05,7,automatic,nc,nc
 2022-04-06T07:00:51.262Z,61.6475,-150.9266,70.8,1.4,ml,,,,0.5,ak,ak0224evrgkx,2022-04-06T07:13:08.865Z,"24 km WNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-06T06:18:35.380Z,18.0153333333333,-66.8326666666667,16.8,1.92,md,6,268,,0.09,pr,pr71343553,2022-04-06T06:45:47.700Z,"2 km NNW of Indios, Puerto Rico",earthquake,1.01,31.61,0.0267133589277038,5,reviewed,pr,pr
