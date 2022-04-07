@@ -9397,3 +9397,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T09:49:57.320Z,44.9625,-114.4795,8.98,1.63,ml,16.0,89.0,0.466,0.24,mb,mb80542479,2022-04-07T14:18:51.120Z,"51 km WSW of Salmon, Idaho",earthquake,0.56,1.22,0.161,12.0,reviewed,mb,mb
 2022-04-07T01:22:08.070Z,44.458,-115.2086667,6.48,1.83,ml,12.0,82.0,0.845,0.16,mb,mb80542464,2022-04-07T14:34:53.920Z,"34 km NW of Stanley, Idaho",earthquake,0.4,1.0,0.142,8.0,reviewed,mb,mb
 2022-04-06T22:58:53.310Z,44.3095,-115.161,8.9,2.58,ml,11.0,82.0,0.921,0.23,mb,mb80542434,2022-04-07T14:07:52.290Z,"20 km WNW of Stanley, Idaho",earthquake,0.66,1.47,0.209,16.0,reviewed,mb,mb
+2022-04-07T14:47:42.544Z,64.0798,-148.5022,0.0,1.5,ml,,,,0.53,ak,ak0224gnqwb1,2022-04-07T14:50:27.869Z,"30 km ENE of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-07T14:44:45.540Z,38.7591667,-122.7378311,1.27,0.74,md,10.0,102.0,0.008296,0.04,nc,nc73715551,2022-04-07T14:46:23.212Z,"3km SE of The Geysers, CA",earthquake,0.32,0.46,0.11,4.0,automatic,nc,nc
