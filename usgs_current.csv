@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-09T09:03:42.907Z,64.7378,-147.53,0,1.1,ml,,,,0.83,ak,ak0224jvkzsi,2022-04-09T09:05:44.663Z,"6 km S of Badger, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-09T08:23:12.795Z,19.1405,-67.0283,28.29,3.5,ml,,218,0.674,0.34,us,us7000h0vh,2022-04-09T08:29:56.040Z,"70 km N of Isabela, Puerto Rico",earthquake,3.8,15.2,0.053,46,reviewed,us,us
 2022-04-09T08:19:03.192Z,64.7121,-154.8194,8.7,2,ml,,,,0.59,ak,ak0224jv2wkv,2022-04-09T08:27:50.617Z,"31 km E of Ruby, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-09T08:14:35.826Z,65.2886,-158.2847,5.9,2.2,ml,,,,0.87,ak,ak0224jv1whf,2022-04-09T08:27:49.610Z,"53 km NNW of Koyukuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -237,9 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T09:30:29.370Z,37.3775,-120.013,27.01,2.18,md,7,93,0.1882,0.07,nc,nc73715901,2022-04-08T13:34:17.296Z,"13km SSW of Mariposa, CA",earthquake,0.55,1.02,0.145,13,reviewed,nc,nc
 2022-04-08T09:22:13.433Z,61.9252,-149.3981,19.7,1.4,ml,,,,0.66,ak,ak0224i85nmj,2022-04-08T09:24:32.026Z,"21 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-08T09:13:13.340Z,38.8321648,-122.8178329,1.71,0.85,md,9,70,0.01521,0.02,nc,nc73715896,2022-04-08T09:32:15.894Z,"8km NW of The Geysers, CA",earthquake,0.32,1.41,,1,automatic,nc,nc
-2022-04-08T09:05:17.440Z,17.9216666666667,-67.291,6.3,1.85,md,3,344,,0.05,pr,pr71343758,2022-04-08T11:51:35.450Z,"12 km WSW of Pole Ojea, Puerto Rico",earthquake,1.81,0.48,0.12396069351261,3,reviewed,pr,pr
-2022-04-08T09:03:42.018Z,-22.4831,-68.8121,126.9,4,mb,,59,0.736,0.9,us,us7000h0m5,2022-04-08T09:30:58.040Z,"11 km ESE of Calama, Chile",earthquake,3.5,7.6,0.156,11,reviewed,us,us
-2022-04-08T08:58:12.510Z,34.3066667,-117.008,7.52,1.58,ml,58,54,0.08472,0.13,ci,ci39988511,2022-04-08T17:03:19.910Z,"11km NW of Big Bear Lake, CA",earthquake,0.17,0.4,0.148,22,reviewed,ci,ci
-2022-04-08T08:55:17.660Z,17.94,-67.0905,11.94,2.22,md,9,265,,0.07,pr,pr71343743,2022-04-08T10:29:54.810Z,"6 km SW of La Parguera, Puerto Rico",earthquake,0.73,0.26,0.18141099079095,6,reviewed,pr,pr
-2022-04-08T08:52:51.210Z,19.1966667175293,-155.399169921875,32.810001373291,1.78999996,md,42,160,,0.119999997,hv,hv72977692,2022-04-08T08:56:02.010Z,"8 km E of Pāhala, Hawaii",earthquake,0.61,0.899999976,0.709999979,17,automatic,hv,hv
-2022-04-08T08:50:00.480Z,38.824501,-122.7665024,2.03,0.87,md,20,120,0.006529,0.03,nc,nc73715891,2022-04-08T09:07:19.742Z,"4km W of Cobb, CA",earthquake,0.27,0.42,0.13,4,automatic,nc,nc
