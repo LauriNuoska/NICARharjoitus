@@ -10485,3 +10485,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T18:56:24.140Z,46.97783279418945,-122.21666717529295,0.850000023841858,1.38,md,21.0,141.0,,0.0799999982,uw,uw61830731,2022-04-11T18:59:29.280Z,Washington,earthquake,0.72,0.469999999,0.589999974,3.0,automatic,uw,uw
 2022-04-11T18:47:37.380Z,37.6245003,-121.7761688,6.86,0.87,md,8.0,114.0,0.01543,0.04,nc,nc73717031,2022-04-11T18:49:12.327Z,"6km S of Livermore, CA",earthquake,0.58,0.46,0.09,7.0,automatic,nc,nc
 2022-04-11T18:31:52.124Z,31.604,-104.23,5.0,2.9,ml,,52.0,0.239,0.78,us,us7000h1ba,2022-04-11T18:51:08.040Z,"52 km NW of Toyah, Texas",earthquake,4.8,2.0,0.105,38.0,reviewed,us,us
+2022-04-11T19:14:24.257Z,61.6924,-150.0371,25.8,1.4,ml,,,,0.64,ak,ak0224ncoc9l,2022-04-11T19:20:28.987Z,"6 km S of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-11T19:13:55.130Z,63.5271,-147.09,199.7,1.4,ml,,,,1.03,ak,ak0224nco6xl,2022-04-11T19:20:27.986Z,"87 km SW of Delta Junction, Alaska",earthquake,,11.4,,,automatic,ak,ak
