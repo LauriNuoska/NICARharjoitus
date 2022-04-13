@@ -10996,3 +10996,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T01:48:57.520Z,44.7353333,-111.0913333,11.55,0.18,md,12.0,78.0,0.06178,0.09,uu,uu60491227,2022-04-13T15:01:12.530Z,"8 km N of West Yellowstone, Montana",earthquake,0.42,1.15,0.391,7.0,reviewed,uu,uu
 2022-04-12T22:54:00.860Z,44.7343333,-111.0876667,9.4,0.62,ml,12.0,78.0,0.06323,0.2,uu,uu60491212,2022-04-13T15:05:54.770Z,"8 km N of West Yellowstone, Montana",earthquake,0.57,1.37,0.336,2.0,reviewed,uu,uu
 2022-04-13T07:22:54.460Z,40.4881667,-112.1755,1.6,1.16,md,7.0,169.0,0.06703,0.19,uu,uu60491297,2022-04-13T15:34:53.820Z,Utah,earthquake,1.21,31.61,0.289,3.0,reviewed,uu,uu
+2022-04-13T15:48:03.600Z,38.8288345,-122.8146667,1.94,0.93,md,24.0,44.0,0.006509,0.02,nc,nc73717896,2022-04-13T15:49:40.036Z,"8km NW of The Geysers, CA",earthquake,0.19,0.38,0.05,5.0,automatic,nc,nc
