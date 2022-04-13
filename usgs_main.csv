@@ -10975,3 +10975,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T14:19:45.164Z,36.6677,-116.2657,7.1,0.6,ml,16.0,92.15,0.063,0.1902,nn,nn00837109,2022-04-13T14:22:52.101Z,"51 km ESE of Beatty, Nevada",earthquake,,0.7,0.99,11.0,automatic,nn,nn
 2022-04-13T14:19:36.070Z,34.1031667,-118.3288333,6.99,1.57,ml,40.0,37.0,0.02804,0.26,ci,ci39991367,2022-04-13T14:23:26.256Z,"1km NNW of Hollywood, CA",earthquake,0.36,0.64,0.137,27.0,automatic,ci,ci
 2022-04-13T14:19:16.880Z,34.3873333,-117.0728333,24.49,1.8,ml,7.0,74.0,0.4817,0.25,ci,ci39991359,2022-04-13T14:22:58.456Z,"12km WSW of Lucerne Valley, CA",earthquake,0.99,6.36,0.312,23.0,automatic,ci,ci
+2022-04-12T23:41:51.880Z,44.738,-111.0943333,11.2,0.24,md,11.0,99.0,0.05881,0.12,uu,uu60491217,2022-04-13T14:40:05.620Z,"8 km ESE of Hebgen Lake Estates, Montana",earthquake,0.54,1.2,0.313,6.0,reviewed,uu,uu
