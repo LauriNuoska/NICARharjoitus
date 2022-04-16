@@ -11850,3 +11850,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T07:30:16.800Z,34.2838333,-117.5153333,11.19,1.6,ml,50.0,27.0,0.07629,0.19,ci,ci40238048,2022-04-16T07:41:05.490Z,"3km NNW of Lytle Creek, CA",earthquake,0.23,0.53,0.172,28.0,automatic,ci,ci
 2022-04-16T07:48:34.960Z,34.2586667,-118.3855,10.44,2.01,ml,52.0,25.0,0.0431,0.24,ci,ci40238056,2022-04-16T07:52:25.935Z,"3km SW of Lake View Terrace, CA",earthquake,0.25,0.58,0.24,25.0,automatic,ci,ci
 2022-04-16T05:03:12.574Z,31.6701,-104.6178,5.0,2.5,ml,,73.0,0.099,0.44,us,us7000h2mp,2022-04-16T07:51:43.040Z,"60 km SSW of Whites City, New Mexico",earthquake,1.7,2.0,0.079,38.0,reviewed,us,us
+2022-04-16T08:23:13.890Z,33.5019989,-116.4873352,13.23,1.11,ml,23.0,94.0,0.06629,0.15,ci,ci40238072,2022-04-16T08:25:22.134Z,"18km ESE of Anza, CA",earthquake,0.48,0.83,0.155,3.0,automatic,ci,ci
+2022-04-16T08:16:26.550Z,33.5151667,-116.4811667,13.85,0.7,ml,20.0,93.0,0.05929,0.18,ci,ci40238064,2022-04-16T08:19:51.097Z,"18km ESE of Anza, CA",earthquake,0.42,0.71,0.145,16.0,automatic,ci,ci
+2022-04-16T07:53:53.786Z,61.5461,-146.6172,54.1,1.2,ml,,,,0.33,ak,ak0224vfgaoi,2022-04-16T07:58:23.517Z,"48 km NNW of Valdez, Alaska",earthquake,,1.2,,,automatic,ak,ak
