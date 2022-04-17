@@ -12075,3 +12075,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T06:00:50.340Z,33.683,-116.9876667,4.16,1.0,ml,10.0,100.0,0.2297,0.26,ci,ci40238752,2022-04-17T06:04:25.352Z,"7km SSW of Hemet, CA",earthquake,0.93,31.61,0.463,5.0,automatic,ci,ci
 2022-04-17T05:49:28.807Z,-1.3804,136.9426,10.0,5.3,mww,,52.0,4.933,0.85,us,us7000h2ti,2022-04-17T06:09:45.040Z,"98 km ESE of Biak, Indonesia",earthquake,6.0,1.8,0.089,12.0,reviewed,us,us
 2022-04-17T06:36:12.780Z,38.8388329,-122.8103333,1.73,0.85,md,14.0,60.0,0.01542,0.01,nc,nc73718710,2022-04-17T06:42:53.236Z,"8km WNW of Cobb, CA",earthquake,0.26,0.61,,1.0,automatic,nc,nc
+2022-04-17T07:04:22.650Z,35.6398315,-117.4286652,3.18,1.56,ml,24.0,129.0,0.05982,0.09,ci,ci40238768,2022-04-17T07:06:29.256Z,"14km S of Searles Valley, CA",earthquake,0.31,0.56,0.117,5.0,automatic,ci,ci
