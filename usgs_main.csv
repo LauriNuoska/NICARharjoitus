@@ -12065,3 +12065,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T05:42:17.120Z,34.0383339,-116.8590012,12.49,1.59,ml,66.0,37.0,0.04265,0.17,ci,ci40238744,2022-04-17T05:44:22.959Z,"13km N of Banning, CA",earthquake,0.18,0.5,0.142,26.0,automatic,ci,ci
 2022-04-17T05:38:26.090Z,31.6905003,-115.9791641,12.39,3.64,mlr,25.0,263.0,0.3145,0.2,ci,ci40238728,2022-04-17T05:43:41.105Z,"56km E of Maneadero, B.C., MX",earthquake,1.39,2.77,0.437,21.0,reviewed,ci,ci
 2022-04-17T05:35:21.015Z,63.1806,-150.6459,10.4,1.2,ml,,,,0.94,ak,ak0224x1oujm,2022-04-17T05:41:19.745Z,"67 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-17T05:48:27.722Z,60.8289,-151.742,59.3,1.6,ml,,,,0.82,ak,ak0224x1rndg,2022-04-17T05:54:31.123Z,"29 km WNW of Nikiski, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2022-04-17T05:00:15.064Z,28.8703,-98.1274,5.0,2.7,mb_lg,,78.0,0.28,0.49,us,us7000h2t8,2022-04-17T05:56:11.040Z,"16 km SW of Falls City, Texas",earthquake,1.4,1.9,0.082,39.0,reviewed,us,us
