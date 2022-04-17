@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-17T14:24:07.580Z,38.8260002,-122.8118362,1.06,0.74,md,17,56,0.02086,0.04,nc,nc73718880,2022-04-17T14:30:46.270Z,"7km NW of The Geysers, CA",earthquake,0.2,0.52,0.39,3,automatic,nc,nc
 2022-04-17T14:03:30.580Z,34.1453333,-117.4223333,3.91,0.94,ml,28,97,0.08935,0.22,ci,ci40239016,2022-04-17T14:08:03.579Z,"6km NNE of Fontana, CA",earthquake,0.39,1.01,0.17,29,automatic,ci,ci
-2022-04-17T13:58:45.464Z,63.9661,-150.3639,19,1.2,ml,,,,0.98,ak,ak0224x6laqm,2022-04-17T14:02:02.739Z,"61 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-17T13:58:45.464Z,63.9661,-150.3639,19,1.2,ml,,,,0.98,ak,ak0224x6laqm,2022-04-17T14:20:58.466Z,"61 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T13:32:35.480Z,35.9343333,-117.7128333,9.76,1.06,ml,14,59,0.05246,0.12,ci,ci40239000,2022-04-17T13:36:16.497Z,"18km E of Little Lake, CA",earthquake,0.31,0.58,0.408,8,automatic,ci,ci
 2022-04-17T13:19:26.954Z,63.5046,-151.2386,4.2,1.4,ml,,,,1.12,ak,ak0224x6cwdz,2022-04-17T13:22:52.968Z,"24 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T13:10:30.030Z,37.0843333,-117.9395,3.42,1.99,ml,6,118,0.2344,0.02,ci,ci40238984,2022-04-17T13:14:22.388Z,"32km ESE of Big Pine, CA",earthquake,0.3,0.83,0.282,13,automatic,ci,ci
@@ -48,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T09:38:23.690Z,33.5528333,-116.8063333,9.4,0.39,ml,9,117,0.05389,0.18,ci,ci40238832,2022-04-17T09:41:57.635Z,"12km W of Anza, CA",earthquake,0.66,1.13,0.149,4,automatic,ci,ci
 2022-04-17T09:33:51.670Z,33.5031667,-116.5023333,14.24,0.69,ml,22,59,0.05924,0.15,ci,ci40238824,2022-04-17T13:49:34.663Z,"17km ESE of Anza, CA",earthquake,0.25,0.58,0.084,16,reviewed,ci,ci
 2022-04-17T09:32:39.829Z,-1.0476,137.4675,10,4.5,mb,,208,5.536,0.78,us,us7000h2v7,2022-04-17T09:52:28.040Z,"154 km E of Biak, Indonesia",earthquake,13.7,2,0.124,19,reviewed,us,us
-2022-04-17T09:29:50.990Z,36.6486664,-121.2823334,8.51,2.47,md,47,65,0.04582,0.19,nc,nc73718765,2022-04-17T11:54:53.805Z,"16km SSE of Tres Pinos, CA",earthquake,0.27,0.65,0.17,44,automatic,nc,nc
+2022-04-17T09:29:50.990Z,36.6486664,-121.2823334,8.51,2.47,md,47,65,0.04582,0.19,nc,nc73718765,2022-04-17T14:30:09.281Z,"16km SSE of Tres Pinos, CA",earthquake,0.27,0.65,0.17,44,automatic,nc,nc
 2022-04-17T09:24:24.320Z,33.3246667,-116.284,10.29,0.73,ml,17,158,0.04328,0.14,ci,ci40238816,2022-04-17T09:28:01.547Z,"11km NE of Borrego Springs, CA",earthquake,0.37,0.76,0.15,13,automatic,ci,ci
 2022-04-17T09:20:47.290Z,38.8171654,-122.8195038,6.35,0.54,md,16,64,0.009641,0.17,nc,nc73718760,2022-04-17T09:51:54.077Z,"7km NW of The Geysers, CA",earthquake,0.97,1.54,0.21,2,automatic,nc,nc
 2022-04-17T09:16:55.150Z,19.3666666666667,-68.1218333333333,16.12,3.43,md,23,253,,0.58,pr,pr71344863,2022-04-17T10:50:58.550Z,"91 km NNE of Punta Cana, Dominican Republic",earthquake,4.65,9.4,0.104928294399024,15,reviewed,pr,pr
