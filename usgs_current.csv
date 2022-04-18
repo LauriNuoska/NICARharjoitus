@@ -252,5 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T07:56:56.030Z,32.9128333,-115.8085,5.07,1.31,ml,20,66,0.03296,0.23,ci,ci40238784,2022-04-17T08:00:34.807Z,"22km SW of Westmorland, CA",earthquake,0.42,0.67,0.168,16,automatic,ci,ci
 2022-04-17T07:48:52.908Z,60.158,-140.8845,16.2,1.2,ml,,,,1.02,ak,ak0224x2ykil,2022-04-17T08:04:24.209Z,"94 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T07:46:36.426Z,-15.6828,167.7723,199.4,5.8,mww,,35,0.596,0.71,us,us7000h2u9,2022-04-18T00:53:52.082Z,"58 km NE of Norsup, Vanuatu",earthquake,8.7,5.3,0.098,10,reviewed,us,us
-2022-04-17T07:29:56.790Z,18.0011,-68.6981,116,3.76,md,13,231,0.6027,0.22,pr,pr2022107000,2022-04-17T08:24:43.040Z,"42 km SSW of Boca de Yuma, Dominican Republic",earthquake,3.42,2.17,0.11,6,reviewed,pr,pr
-2022-04-17T07:26:38.005Z,62.8206,-149.492,63.1,1.3,ml,,,,1.01,ak,ak0224x2ttmm,2022-04-17T07:34:34.517Z,"51 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
