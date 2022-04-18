@@ -12395,3 +12395,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T09:02:03.070Z,17.9446666666667,-66.8481666666667,11.86,2.45,md,7.0,215.0,,0.06,pr,pr71344943,2022-04-18T11:33:31.200Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.56,0.33,0.121853048468872,5.0,reviewed,pr,pr
 2022-04-18T05:03:13.000Z,38.8338333,-122.8166667,1.94,0.26,md,13.0,106.0,0.01163,0.03,nc,nc73719450,2022-04-18T11:44:50.651Z,"8km NW of The Geysers, CA",earthquake,0.3,0.55,0.305,2.0,reviewed,nc,nc
 2022-04-17T14:12:02.330Z,38.7756667,-122.7261667,1.63,-0.24,md,13.0,72.0,0.01119,0.02,nc,nc73718865,2022-04-18T11:42:19.024Z,"3km E of The Geysers, CA",earthquake,0.27,0.38,0.001,3.0,reviewed,nc,nc
+2022-04-18T11:54:18.250Z,33.9533333,-116.934,16.85,1.47,ml,49.0,62.0,0.05015,0.21,ci,ci40239640,2022-04-18T11:58:04.668Z,"5km ENE of Beaumont, CA",earthquake,0.24,0.59,0.154,29.0,automatic,ci,ci
+2022-04-18T11:38:38.052Z,21.6419,121.1015,10.0,5.3,mww,,57.0,1.17,0.64,us,us7000h326,2022-04-18T11:57:33.040Z,"54 km SE of Hengchun, Taiwan",earthquake,6.2,1.8,0.063,24.0,reviewed,us,us
