@@ -13015,3 +13015,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T12:34:18.226Z,38.1861,-117.9601,2.6,2.0,ml,20.0,86.55,0.023,0.2636,nn,nn00837517,2022-04-20T12:38:07.828Z,"26 km SSE of Mina, Nevada",earthquake,,0.4,0.39,13.0,automatic,nn,nn
 2022-04-20T12:33:10.050Z,34.2571667,-117.088,2.15,1.33,ml,24.0,99.0,0.1386,0.19,ci,ci40242128,2022-04-20T13:12:55.815Z,"6km NNE of Running Springs, CA",earthquake,0.41,1.57,0.154,30.0,reviewed,ci,ci
 2022-04-20T01:08:31.050Z,38.7285,-83.817,14.92,2.09,md,7.0,162.0,0.3064,0.18,se,se60149343,2022-04-20T13:12:48.350Z,"3 km SE of Ripley, Ohio",earthquake,0.6,0.88,0.115,4.0,reviewed,se,se
+2022-04-20T13:38:51.080Z,19.2290000915527,-155.394668579102,32.6699981689453,1.88999999,md,37.0,145.0,,0.119999997,hv,hv72990377,2022-04-20T13:42:05.170Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.52,0.829999983,0.310000002,13.0,automatic,hv,hv
+2022-04-20T13:26:53.900Z,62.836,-148.8953,3.5,1.8,ml,,,,0.76,ak,ak0225250hyh,2022-04-20T13:29:33.601Z,"62 km S of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-20T13:19:11.889Z,-27.2319,-66.3568,177.45,4.8,mww,,44.0,2.504,0.71,us,us7000h3jq,2022-04-20T13:34:42.040Z,"38 km N of Andalgalá, Argentina",earthquake,8.8,5.0,0.098,10.0,reviewed,us,us
+2022-04-20T05:31:46.030Z,36.43033333,-96.90266667,6.19,0.87,ml,25.0,74.0,0.03599293696,0.17,ok,ok2022hrot,2022-04-20T13:25:44.382Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.7,0.18,5.0,reviewed,ok,ok
+2022-04-20T03:47:19.020Z,44.775,-111.0135,9.36,1.37,ml,14.0,106.0,0.01652,0.16,uu,uu60492912,2022-04-20T13:27:09.100Z,"14 km E of Hebgen Lake Estates, Montana",earthquake,0.41,0.73,0.007,2.0,reviewed,uu,uu
