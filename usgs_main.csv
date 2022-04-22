@@ -13613,3 +13613,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T13:36:06.600Z,44.819,-110.9685,5.49,0.52,md,12.0,188.0,0.06541,0.11,uu,uu60493812,2022-04-22T14:15:13.030Z,"18 km ENE of Hebgen Lake Estates, Montana",earthquake,0.62,1.21,0.23,8.0,reviewed,uu,uu
 2022-04-22T14:28:02.470Z,19.1693325042725,-155.491165161133,33.5099983215332,2.45000005,md,42.0,99.0,,0.140000001,hv,hv72992572,2022-04-22T14:31:19.150Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,0.649999976,1.21000004,27.0,automatic,hv,hv
 2022-04-22T14:24:27.975Z,63.234,-150.3919,8.0,1.2,ml,,,,0.57,ak,ak02255go53r,2022-04-22T14:27:46.582Z,"74 km WSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-22T14:33:32.775Z,59.6727,-153.3052,106.2,2.3,ml,,,,0.75,ak,ak02255gq2xp,2022-04-22T14:39:47.879Z,"46 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-22T00:09:39.790Z,33.7133333,-116.7168333,17.51,0.44,ml,10.0,169.0,0.0031,0.07,ci,ci40243520,2022-04-22T14:50:10.639Z,"3km S of Idyllwild, CA",earthquake,0.36,0.39,0.222,5.0,reviewed,ci,ci
