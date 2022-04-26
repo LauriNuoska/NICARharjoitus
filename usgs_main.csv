@@ -14749,3 +14749,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-26T11:40:56.630Z,39.392,-120.1654,11.2,0.9,ml,14.0,64.06,0.118,0.1693,nn,nn00837916,2022-04-26T20:21:41.163Z,"7 km NNE of Truckee, California",earthquake,,1.8,0.3,5.0,reviewed,nn,nn
 2022-04-26T11:34:23.084Z,39.396,-120.1669,10.5,0.9,ml,11.0,92.97,0.127,0.1452,nn,nn00837914,2022-04-26T20:12:12.466Z,"7 km N of Truckee, California",earthquake,,1.8,0.5,6.0,reviewed,nn,nn
 2022-04-26T04:03:14.020Z,52.0421666666667,-174.359166666667,11.8,0.55,ml,5.0,344.0,,0.03,av,av91056323,2022-04-26T20:12:48.480Z,"20 km SSW of Atka, Alaska",earthquake,1.15,1.69,0.189752487534116,5.0,reviewed,av,av
+2022-04-26T20:20:49.140Z,17.9531666666667,-66.8423333333333,12.09,2.21,md,12.0,173.0,,0.12,pr,pr71346228,2022-04-26T20:34:37.450Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.53,0.33,0.107637888100435,7.0,reviewed,pr,pr
