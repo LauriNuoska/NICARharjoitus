@@ -18103,3 +18103,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T05:32:32.950Z,38.848999,-122.7801666,1.15,0.47,md,9.0,153.0,0.007033,0.02,nc,nc73731601,2022-05-10T05:34:08.530Z,"6km WNW of Cobb, CA",earthquake,0.35,0.48,0.4,2.0,automatic,nc,nc
 2022-05-10T05:20:10.140Z,33.0418333,-116.3496667,11.41,0.98,ml,36.0,63.0,0.09529,0.23,ci,ci40255352,2022-05-10T05:23:49.121Z,"23km WSW of Ocotillo Wells, CA",earthquake,0.35,1.22,0.205,18.0,automatic,ci,ci
 2022-05-10T05:22:45.224Z,-17.6045,-70.1306,133.43,4.3,mb,,157.0,0.62,0.54,us,us7000h89i,2022-05-10T05:40:09.040Z,"13 km S of Chucatamani, Peru",earthquake,5.7,7.1,0.142,14.0,reviewed,us,us
+2022-05-10T05:56:11.060Z,33.3199997,-116.3758316,9.4,0.95,ml,25.0,154.0,0.06219,0.17,ci,ci40255360,2022-05-10T05:58:16.547Z,"7km N of Borrego Springs, CA",earthquake,0.48,0.78,0.046,4.0,automatic,ci,ci
+2022-05-09T09:53:31.020Z,53.8656666666667,-166.855333333333,6.57,1.03,ml,14.0,154.0,,0.15,av,av91057923,2022-05-10T05:58:12.400Z,"20 km W of Dutch Harbor, Alaska",earthquake,0.37,0.24,0.336291596367853,14.0,reviewed,av,av
