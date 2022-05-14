@@ -19384,3 +19384,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T19:59:32.269Z,60.4599,-142.9593,16.0,0.9,ml,,,,0.4,ak,ak02265xogei,2022-05-14T20:01:19.372Z,"108 km S of McCarthy, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-05-14T19:50:42.060Z,38.8353348,-122.8218307,0.7,1.18,md,15.0,69.0,0.01115,0.02,nc,nc73733726,2022-05-14T19:59:10.778Z,"9km NW of The Geysers, CA",earthquake,0.21,0.57,,1.0,automatic,nc,nc
 2022-05-14T13:37:07.008Z,58.4215,-154.8327,7.9,1.0,ml,,,,0.47,ak,ak02265tyxi1,2022-05-14T20:09:14.915Z,"97 km NNW of Karluk, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2022-05-14T20:28:18.540Z,60.7879,-146.6425,16.0,1.5,ml,,,,0.66,ak,ak02265y37r7,2022-05-14T20:30:42.143Z,"8 km SSE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-14T20:17:59.670Z,63.0433,-149.5856,62.6,1.2,ml,,,,0.7,ak,ak02265y0y1i,2022-05-14T20:21:12.751Z,"50 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
