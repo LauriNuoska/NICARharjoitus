@@ -19461,3 +19461,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T04:45:31.941Z,18.9487,-65.3215,10.0,2.9,ml,,283.0,0.874,0.52,us,us6000hl90,2022-05-15T05:00:53.040Z,"71 km N of Culebra, Puerto Rico",earthquake,5.2,2.0,0.069,28.0,reviewed,us,us
 2022-05-15T04:29:00.118Z,-34.9799,-74.4756,10.0,4.6,mwr,,109.0,2.049,1.02,us,us6000hl8x,2022-05-15T04:53:53.040Z,"192 km WNW of Constitución, Chile",earthquake,6.5,1.9,,,reviewed,us,guc
 2022-05-15T02:15:53.475Z,41.2814,-71.3875,5.65,2.5,ml,,200.0,0.511,0.43,us,us6000hl8b,2022-05-15T05:15:49.382Z,"17 km SSE of Narragansett Pier, Rhode Island",earthquake,2.1,6.4,0.049,54.0,reviewed,us,us
+2022-05-15T06:00:33.810Z,35.6265,-117.479,4.75,1.06,ml,17.0,106.0,0.0422,0.17,ci,ci40019263,2022-05-15T06:04:10.934Z,"17km SSW of Searles Valley, CA",earthquake,0.38,0.86,0.214,13.0,automatic,ci,ci
+2022-05-15T05:58:55.940Z,33.8931667,-116.9558333,12.39,1.67,ml,66.0,36.0,0.03487,0.18,ci,ci40019255,2022-05-15T06:02:45.619Z,"4km SSE of Beaumont, CA",earthquake,0.18,0.47,0.172,27.0,automatic,ci,ci
+2022-05-15T05:56:29.280Z,38.8103333,-122.7871704,-0.24,0.84,md,8.0,96.0,0.005849,0.04,nc,nc73733906,2022-05-15T06:05:12.508Z,"4km NW of The Geysers, CA",earthquake,0.3,0.7,,1.0,automatic,nc,nc
+2022-05-15T05:49:53.130Z,35.3356667,-118.5135,3.1,1.17,ml,17.0,78.0,0.0878,0.17,ci,ci40019247,2022-05-15T05:53:28.534Z,"23km NNW of Tehachapi, CA",earthquake,0.4,0.51,0.166,16.0,automatic,ci,ci
+2022-05-15T04:45:25.630Z,19.3435,-64.6885,41.0,3.9,md,19.0,305.0,1.1942,0.46,pr,pr2022135001,2022-05-15T05:55:19.169Z,"112 km N of Cruz Bay, U.S. Virgin Islands",earthquake,4.22,20.95,0.11,13.0,reviewed,pr,pr
