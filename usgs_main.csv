@@ -20533,3 +20533,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T08:37:01.388Z,63.7428,-150.0469,21.1,1.4,ml,,,,1.24,ak,ak0226e0on2z,2022-05-19T08:45:54.218Z,"54 km WSW of Healy, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2022-05-19T08:32:22.576Z,60.2169,-140.6747,7.9,1.4,ml,,,,1.15,ak,ak0226e0nm4x,2022-05-19T08:43:45.333Z,"91 km NW of Yakutat, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-05-19T08:23:01.321Z,36.8007,-116.0712,7.1,0.4,ml,13.0,120.7,0.048,0.0996,nn,nn00839135,2022-05-19T08:26:08.622Z,"44 km NW of Indian Springs, Nevada",earthquake,,1.1,0.22,9.0,automatic,nn,nn
+2022-05-19T08:45:08.031Z,60.4423,-152.2044,29.4,0.9,ml,,,,0.89,ak,ak0226e0qdbn,2022-05-19T08:46:57.579Z,"50 km W of Cohoe, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-19T08:36:35.520Z,18.0048333333333,-66.8748333333333,11.13,2.13,md,7.0,119.0,,0.06,pr,pr71349378,2022-05-19T08:49:25.280Z,"0 km S of Palomas, Puerto Rico",earthquake,0.73,0.85,0.115603031317204,3.0,reviewed,pr,pr
