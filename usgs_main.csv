@@ -20582,3 +20582,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T14:34:46.570Z,33.6128349,-117.8861694,9.9,1.42,ml,15.0,120.0,0.2217,0.25,ci,ci40022439,2022-05-19T14:36:52.840Z,"4km E of Newport Beach, CA",earthquake,0.75,3.62,0.478,9.0,automatic,ci,ci
 2022-05-19T14:13:03.150Z,35.9203333,-117.7175,9.63,0.91,ml,13.0,56.0,0.06102,0.08,ci,ci40022415,2022-05-19T14:16:33.264Z,"17km E of Little Lake, CA",earthquake,0.21,0.43,0.25,11.0,automatic,ci,ci
 2022-05-19T14:05:07.270Z,38.5036659,-119.4728317,3.49,1.98,md,7.0,162.0,0.02718,0.08,nc,nc73735676,2022-05-19T14:16:10.155Z,"1km SSE of Walker, CA",earthquake,0.92,0.63,0.3,5.0,automatic,nc,nc
+2022-05-19T03:29:34.300Z,39.4291667,-110.3061667,-1.32,1.59,md,8.0,196.0,0.01551,0.13,uu,uu60498592,2022-05-19T14:55:11.000Z,"15 km SSE of Sunnyside, Utah",earthquake,1.15,0.52,0.258,7.0,reviewed,uu,uu
