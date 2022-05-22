@@ -21362,3 +21362,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T20:39:37.800Z,38.833168,-122.7993317,1.39,0.46,md,13.0,49.0,0.008756,0.02,nc,nc73736786,2022-05-22T20:41:12.164Z,"7km W of Cobb, CA",earthquake,0.29,0.63,0.39,2.0,automatic,nc,nc
 2022-05-22T20:33:05.490Z,38.8504982,-122.7906647,1.1,1.21,md,18.0,143.0,0.006673,0.03,nc,nc73736781,2022-05-22T20:44:10.260Z,"7km WNW of Cobb, CA",earthquake,0.23,0.34,0.09,4.0,automatic,nc,nc
 2022-05-22T20:28:18.260Z,19.1746673583984,-155.487670898438,31.5799999237061,2.0999999,md,36.0,87.0,,0.119999997,hv,hv73020127,2022-05-22T20:31:38.080Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.54,0.889999986,1.79999995,14.0,automatic,hv,hv
+2022-05-22T11:06:59.509Z,62.9672,-149.161,19.6,1.0,ml,,,,0.68,ak,ak0226j0wfey,2022-05-22T20:52:48.537Z,"48 km SSW of Cantwell, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2022-05-22T07:59:33.586Z,62.0553,-149.8765,47.2,1.0,ml,,,,0.65,ak,ak0226iyu172,2022-05-22T20:45:56.205Z,Central Alaska,earthquake,,1.0,,,reviewed,ak,ak
