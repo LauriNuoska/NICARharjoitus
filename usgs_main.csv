@@ -21364,3 +21364,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T20:28:18.260Z,19.1746673583984,-155.487670898438,31.5799999237061,2.0999999,md,36.0,87.0,,0.119999997,hv,hv73020127,2022-05-22T20:31:38.080Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.54,0.889999986,1.79999995,14.0,automatic,hv,hv
 2022-05-22T11:06:59.509Z,62.9672,-149.161,19.6,1.0,ml,,,,0.68,ak,ak0226j0wfey,2022-05-22T20:52:48.537Z,"48 km SSW of Cantwell, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2022-05-22T07:59:33.586Z,62.0553,-149.8765,47.2,1.0,ml,,,,0.65,ak,ak0226iyu172,2022-05-22T20:45:56.205Z,Central Alaska,earthquake,,1.0,,,reviewed,ak,ak
+2022-05-22T21:08:47.827Z,38.4205,-117.9964,16.0,0.9,ml,9.0,209.64,0.125,0.2662,nn,nn00839358,2022-05-22T21:12:58.936Z,"10 km ENE of Mina, Nevada",earthquake,,1.4,0.57,5.0,automatic,nn,nn
+2022-05-22T20:58:25.460Z,38.173,-117.8872,9.5,1.0,ml,8.0,135.1,0.066,0.0799,nn,nn00839357,2022-05-22T21:02:28.819Z,"30 km SE of Mina, Nevada",earthquake,,1.5,0.38,5.0,automatic,nn,nn
+2022-05-22T09:34:10.130Z,37.4186667,-118.566,11.35,1.13,md,24.0,72.0,0.06543,0.04,nc,nc73736566,2022-05-22T21:21:10.475Z,"3km E of Round Valley, CA",earthquake,0.33,0.88,0.159,19.0,reviewed,nc,nc
