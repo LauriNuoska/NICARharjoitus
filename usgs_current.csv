@@ -204,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-10T15:16:37.015Z,-5.4798,147.1293,178.24,4.7,mb,69,32,5.177,0.82,us,us6000i1e8,2022-07-10T16:11:13.040Z,"138 km N of Lae, Papua New Guinea",earthquake,9.6,6.2,0.046,145,reviewed,us,us
 2022-07-10T14:58:49.160Z,17.9828333333333,-66.988,12.11,1.95,md,7,163,,0.04,pr,pr71358668,2022-07-10T15:13:37.870Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.52,0.74,0.0437912844916255,5,reviewed,pr,pr
 2022-07-10T14:57:38.520Z,46.202666666666666,-122.1975,5.26,0.1,ml,14,95,0.005443,0.16,uw,uw61851522,2022-07-10T16:20:04.210Z,"37 km NNE of Amboy, Washington",earthquake,0.54,0.49,0.10138422116738885,7,reviewed,uw,uw
-2022-07-10T14:54:30.487Z,61.6127,-141.0391,2,1.4,ml,,,,0.46,ak,ak0228s4azt4,2022-07-10T14:57:21.708Z,"102 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
