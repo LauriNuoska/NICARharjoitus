@@ -159,5 +159,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T15:25:53.104Z,19.5272,-70.646,28.297,4.2,mb,30,114,1.263,0.83,us,us7000i4bn,2022-09-01T18:21:27.344Z,"5 km NW of Tamboril, Dominican Republic",earthquake,3.48,8.967,0.528,1,reviewed,us,us
 2022-09-01T15:23:18.020Z,31.5273333,-115.6398333,0.76,2.26,ml,8,128,0.1831,0.06,ci,ci40094311,2022-09-01T16:26:01.134Z,"90km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.31,0.66,0.1,5,reviewed,ci,ci
 2022-09-01T15:21:19.141Z,41.9635,-119.5678,10,2.9,ml,36,51,0.552,0.82,us,us7000i4bl,2022-09-01T19:08:22.040Z,"49 km ENE of Fort Bidwell, California",earthquake,1.53,1.989,0.029,156,reviewed,us,us
-2022-09-01T15:02:22.310Z,38.8339996,-122.8156662,1.91,0.36,md,9,109,0.01145,0.01,nc,nc73774325,2022-09-01T16:28:12.993Z,"8km W of Cobb, CA",earthquake,0.42,0.87,,1,automatic,nc,nc
-2022-09-01T14:59:50.660Z,35.713,-117.5866667,10.36,0.97,ml,16,81,0.1029,0.16,ci,ci40094303,2022-09-01T16:12:14.192Z,"13km NE of Ridgecrest, CA",earthquake,0.25,0.67,0.086,4,reviewed,ci,ci
