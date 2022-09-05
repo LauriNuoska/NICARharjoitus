@@ -165,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-05T03:40:31.490Z,17.9615,-66.8268333333333,15.77,2.96,md,33,169,,0.17,pr,pr71369918,2022-09-05T05:25:01.870Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.41,0.33,0.143966756156514,19,reviewed,pr,pr
 2022-09-05T03:37:50.543Z,62.4,-149.5566,50,1.7,ml,,,,0.29,ak,ak022be7aeoe,2022-09-05T03:39:52.751Z,"28 km ESE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-05T03:31:51.320Z,47.61816666666667,-120.26666666666667,1.13,0.87,ml,11,65,0.04649,0.1,uw,uw61869052,2022-09-05T18:23:07.300Z,"7 km SW of Entiat, Washington",earthquake,0.27,1.53,0.1898738340926731,10,reviewed,uw,uw
-2022-09-05T03:30:22.820Z,36.5713333,-121.1126667,9.86,1.48,md,27,68,0.05855,0.08,nc,nc73775600,2022-09-05T20:19:10.064Z,"5km NNE of Pinnacles, CA",earthquake,0.27,0.35,0.155,29,reviewed,nc,nc
+2022-09-05T03:30:22.820Z,36.5713333,-121.1126667,9.86,1.48,md,27,68,0.05855,0.08,nc,nc73775600,2022-09-05T20:44:13.214Z,"5km NNE of Pinnacles, CA",earthquake,0.27,0.35,0.155,29,reviewed,nc,nc
 2022-09-05T03:29:44.057Z,32.4115,142.3748,10,4.9,mb,74,68,2.269,0.44,us,us7000i59b,2022-09-05T03:57:49.040Z,"Izu Islands, Japan region",earthquake,9.49,1.822,0.039,204,reviewed,us,us
 2022-09-05T03:24:58.648Z,63.5381,-147.6544,11,1.2,ml,,,,0.54,ak,ak022be77mzr,2022-09-05T20:10:34.324Z,"66 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-05T03:19:20.020Z,47.597833333333334,-121.90733333333333,16.98,0.97,ml,19,154,0.06963,0.14,uw,uw61869047,2022-09-05T18:17:40.900Z,"3 km NNW of Fall City, Washington",earthquake,0.66,0.39,0.19746889330460654,10,reviewed,uw,uw
@@ -237,6 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T21:07:33.420Z,17.9803,-66.893,20,1.98,md,3,193,0.0147,0.28,pr,pr2022247003,2022-09-05T09:20:04.178Z,"0 km WNW of Maria Antonia, Puerto Rico",earthquake,9.97,2.38,0,1,reviewed,pr,pr
 2022-09-04T21:06:09.790Z,34.8076667,-120.3391667,0.95,1.41,ml,16,65,0.08693,0.2,ci,ci40096215,2022-09-04T21:09:45.631Z,"9km NW of Los Alamos, CA",earthquake,0.51,31.61,0.101,14,automatic,ci,ci
 2022-09-04T20:51:12.500Z,38.8428345,-122.8253326,2.07,1.13,md,22,95,0.008992,0.02,nc,nc73775485,2022-09-04T21:07:14.679Z,"9km WNW of Cobb, CA",earthquake,0.22,0.44,0.08,4,automatic,nc,nc
-2022-09-04T20:36:13.940Z,36.5685,-121.1201667,9.77,1.98,md,9,133,0.05261,0.05,nc,nc71128999,2022-09-05T18:28:13.404Z,"5km NNE of Pinnacles, CA",earthquake,0.54,0.58,0.127,9,reviewed,nc,nc
-2022-09-04T20:35:59.910Z,36.5683333,-121.1246667,9.36,2.22,md,50,107,0.04901,0.1,nc,nc73775480,2022-09-05T18:01:13.240Z,"4km NNE of Pinnacles, CA",earthquake,0.17,0.31,0.287,57,reviewed,nc,nc
-2022-09-04T20:32:05.750Z,36.5661667,-121.1366667,10.39,2.53,md,58,49,0.03962,0.07,nc,nc73775475,2022-09-05T12:53:13.315Z,"4km N of Pinnacles, CA",earthquake,0.12,0.19,0.139,90,reviewed,nc,nc
