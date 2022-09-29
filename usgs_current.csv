@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-29T10:33:45.380Z,33.4981667,-116.7908333,6.16,0.39,ml,18,54,0.0806,0.2,ci,ci40352976,2022-09-29T10:37:19.129Z,"9km NE of Aguanga, CA",earthquake,0.34,1.48,0.096,10,automatic,ci,ci
 2022-09-29T10:12:42.150Z,19.1628341674805,-155.489669799805,36.3899993896484,2.1099999,md,30,159,,0.129999995,hv,hv73158557,2022-09-29T10:15:52.720Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.64,1.23000002,1.04999995,8,automatic,hv,hv
 2022-09-29T10:04:17.260Z,33.1018333,-116.6151667,15.28,0.64,ml,12,100,0.02552,0.14,ci,ci40352968,2022-09-29T10:07:50.905Z,"3km NNW of Julian, CA",earthquake,0.41,0.61,0.067,5,automatic,ci,ci
 2022-09-29T10:02:07.280Z,33.0958333,-116.6256667,13.76,0.96,ml,24,49,0.02787,0.19,ci,ci40352960,2022-09-29T10:05:45.205Z,"3km NW of Julian, CA",earthquake,0.31,0.63,0.222,18,automatic,ci,ci
@@ -233,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-28T11:01:51.420Z,36.6133333,-121.2156667,4.77,1.2,md,25,129,0.04816,0.08,nc,nc73786751,2022-09-29T04:53:16.011Z,"11km NW of Pinnacles, CA",earthquake,0.26,0.5,0.146,21,reviewed,nc,nc
 2022-09-28T10:59:47.773Z,53.5488,-35.35,10,4.6,mb,56,121,15.395,0.46,us,us6000ip0b,2022-09-29T03:23:36.040Z,"Reykjanes Ridge",earthquake,7.39,1.788,0.079,48,reviewed,us,us
 2022-09-28T10:58:52.520Z,33.9765,-116.8525,19.17,0.63,ml,31,62,0.0693,0.11,ci,ci40107983,2022-09-28T18:10:04.144Z,"6km NNE of Banning, CA",earthquake,0.18,0.36,0.061,12,reviewed,ci,ci
-2022-09-28T10:47:51.390Z,37.2771667,-121.6555,1.32,0.95,md,23,41,0.02296,0.06,nc,nc73786746,2022-09-29T04:18:53.839Z,"16km E of Seven Trees, CA",earthquake,0.16,0.38,0.329,21,reviewed,nc,nc
-2022-09-28T10:39:22.248Z,18.3446,-103.4433,35,4.2,mb,20,230,2.465,0.78,us,us6000inyf,2022-09-28T20:58:38.772Z,"25 km SE of La Placita de Morelos, Mexico",earthquake,5.17,2.004,0.128,17,reviewed,us,us
-2022-09-28T10:33:43.420Z,19.1601657867432,-155.496170043945,34.4000015258789,2.26999998,md,42,125,,0.140000001,hv,hv73157042,2022-09-28T10:36:52.320Z,"Island of Hawaii, Hawaii",earthquake,0.62,1.02999997,0.0199999996,13,automatic,hv,hv
