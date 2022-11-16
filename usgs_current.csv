@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-16T04:54:59.460Z,38.8398323,-122.8361664,1.3,0.92,md,11,178,0.00135,0.03,nc,nc73807986,2022-11-16T04:56:35.153Z,"10km NW of The Geysers, CA",earthquake,0.4,0.51,0.36,2,automatic,nc,nc
+2022-11-16T04:37:01.900Z,19.4500007629395,-155.604507446289,-0.829999983310699,2.08,ml,13,90,,0.129999995,hv,hv73223612,2022-11-16T04:42:32.330Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.46,0.330000013,3.87,5,automatic,hv,hv
 2022-11-16T04:22:43.912Z,61.7289,-151.731,94.4,1.7,ml,,,,0.52,ak,ak022epahll3,2022-11-16T04:25:31.355Z,"34 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-16T04:05:28.790Z,33.6906667,-116.788,16.97,1.13,ml,38,68,0.06486,0.17,ci,ci40132999,2022-11-16T04:08:59.912Z,"8km SW of Idyllwild, CA",earthquake,0.25,0.41,0.189,26,automatic,ci,ci
 2022-11-16T04:01:09.410Z,35.508,-118.3966667,4.63,1.46,ml,25,41,0.1668,0.14,ci,ci40132991,2022-11-16T04:05:03.883Z,"12km SE of Bodfish, CA",earthquake,0.24,0.96,0.231,23,automatic,ci,ci
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-16T03:28:17.114Z,44.0836,130.266,577.375,4.4,mb,69,29,1.246,0.89,us,us7000iq1n,2022-11-16T03:44:33.040Z,"Heilongjiang, China",earthquake,11.28,9.528,0.032,285,reviewed,us,us
 2022-11-16T03:24:05.160Z,19.4888333333333,-155.654333333333,3.5,0.61,md,10,126,,0.07,hv,hv73223557,2022-11-16T03:53:14.950Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.35,0.94,0.126672604102544,6,reviewed,hv,hv
 2022-11-16T03:07:03.900Z,17.9521666666667,-66.9526666666667,10.18,2.52,md,23,204,0.0464,0.1,pr,pr71382658,2022-11-16T03:24:50.460Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.27,0.28,0.12914096632645,12,reviewed,pr,pr
-2022-11-16T03:03:31.750Z,38.7736664,-122.7279968,1.5,0.59,md,9,131,0.01174,0.04,nc,nc73807961,2022-11-16T04:02:11.169Z,"2km E of The Geysers, CA",earthquake,0.49,0.63,0.34,2,automatic,nc,nc
+2022-11-16T03:03:31.750Z,38.7736664,-122.7279968,1.5,0.59,md,9,131,0.01174,0.04,nc,nc73807961,2022-11-16T04:45:15.403Z,"2km E of The Geysers, CA",earthquake,0.49,0.63,0.34,2,automatic,nc,nc
 2022-11-16T02:47:00.825Z,26.5862,102.0918,10,4.7,mb,72,84,5.494,0.72,us,us7000iq1f,2022-11-16T03:03:31.040Z,"38 km E of Dadukou, China",earthquake,9.4,1.868,0.071,60,reviewed,us,us
 2022-11-16T02:46:44.460Z,17.945,-66.957,9.73,2.08,md,8,217,0.07981,0.05,pr,pr71382653,2022-11-16T03:33:03.790Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.56,0.74,0.0842925390599447,7,reviewed,pr,pr
 2022-11-16T02:41:03.870Z,34.1476667,-116.4398333,4.5,0.97,ml,14,59,0.05653,0.2,ci,ci40132975,2022-11-16T02:44:39.914Z,"4km N of Yucca Valley, CA",earthquake,0.39,0.93,0.173,22,automatic,ci,ci
@@ -238,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-15T05:22:50.940Z,63.2158,-149.5133,5.3,1.6,ml,,,,0.54,ak,ak022ennjp8z,2022-11-15T05:25:18.482Z,"34 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-15T05:17:04.300Z,64.5194,-151.1857,14.1,1.3,ml,,,,0.32,ak,ak022ennij26,2022-11-15T05:19:43.321Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-15T05:14:13.880Z,35.6535,-117.5548333,9.76,0.66,ml,17,138,0.08729,0.12,ci,ci40132599,2022-11-15T16:03:48.348Z,"12km ENE of Ridgecrest, CA",earthquake,0.28,0.7,0.096,6,reviewed,ci,ci
-2022-11-15T04:50:02.337Z,59.7729,-152.789,77,1.7,ml,,,,0.86,ak,ak022enn45xl,2022-11-15T04:53:14.803Z,"53 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-11-15T04:44:49.200Z,38.8163338,-122.7996674,3.4,0.81,md,20,54,0.009023,0.03,nc,nc73807661,2022-11-15T07:26:11.870Z,"6km NW of The Geysers, CA",earthquake,0.3,0.49,0.28,3,automatic,nc,nc
