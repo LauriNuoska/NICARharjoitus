@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T05:02:23.486Z,55.7296,-159.2035,63.9,2,ml,,,,0.28,ak,ak022g19jrl8,2022-12-15T05:05:38.343Z,"20 km S of Perryville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-15T04:45:49.405Z,60.9834,-150.0727,40.8,1.8,ml,,,,0.35,ak,ak022g197lss,2022-12-15T04:48:10.150Z,"24 km WNW of Hope, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-15T04:28:16.320Z,62.5821,-151.4651,101.3,2.3,ml,,,,0.52,ak,ak022g193w2o,2022-12-15T04:30:17.897Z,"37 km WNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-12-15T04:13:00.902Z,60.8951,-150.8207,45.1,1.5,ml,,,,0.5,ak,ak022g190n3u,2022-12-15T04:14:50.444Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2022-12-15T04:13:00.902Z,60.8951,-150.8207,45.1,1.5,ml,,,,0.5,ak,ak022g190n3u,2022-12-15T04:14:50.444Z,"7 km WSW of Point Possession, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-12-15T04:11:26.388Z,61.4474,-147.4481,34.3,1.5,ml,,,,0.13,ak,ak022g1909oe,2022-12-15T04:12:35.272Z,"41 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-15T04:03:16.337Z,23.7805,121.7717,15.284,5.9,mww,108,46,0.424,0.45,us,us6000j9by,2022-12-15T05:40:03.146Z,"27 km SE of Hualien City, Taiwan",earthquake,2.64,2.686,0.08,15,reviewed,us,us
 2022-12-15T04:02:55.720Z,17.9566666666667,-66.8576666666667,9.78,2.19,md,7,209,0.02751,0.1,pr,pr71387223,2022-12-15T04:26:27.000Z,"4 km SE of Maria Antonia, Puerto Rico",earthquake,0.57,0.59,0.0216263531741778,5,reviewed,pr,pr
@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T06:11:54.220Z,17.944,-66.8793333333333,15.9,2.73,md,18,211,0.03088,0.1,pr,pr71387093,2022-12-14T06:37:49.760Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,0.47,0.38,0.112251991923011,12,reviewed,pr,pr
 2022-12-14T06:08:50.870Z,19.0995006561279,-155.416000366211,29.9200000762939,1.83000004,md,32,194,,0.140000001,hv,hv73269032,2022-12-14T06:12:08.300Z,"13 km SSE of Pāhala, Hawaii",earthquake,0.64,1.09000003,1.36000001,6,automatic,hv,hv
 2022-12-14T06:06:59.730Z,32.9131667,-116.2428333,7.65,1.13,ml,42,62,0.06557,0.16,ci,ci40145375,2022-12-14T17:34:01.596Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.18,0.5,0.103,16,reviewed,ci,ci
-2022-12-14T05:46:44.190Z,17.9445,-66.9456666666667,10.78,2.28,md,7,212,0.07014,0.07,pr,pr71387088,2022-12-14T05:58:56.300Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.58,0.74,0.0627769440067276,2,reviewed,pr,pr
